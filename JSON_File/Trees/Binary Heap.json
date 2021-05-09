@@ -1,0 +1,1 @@
+{"0": {"statement": " \"options\": {\"a\": \"O(logn)\"", "options": {"a": " \"b\": \"O(n)\"", "b": " \"c\": \"O(1)\"", "c": " \"d\": \"O(nlogn)\"}", "d": " \"ans\": \"d\"}"}, "ans": " \"1\": {\"statement\": \" What is the best case complexity in building a heap?\""}}

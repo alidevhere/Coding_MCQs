@@ -1,0 +1,11 @@
+1, The number of elements in the adjacency matrix of a graph having 7 vertices is __________,7,14,36,49,b
+2," What would be the number of zeros in the adjacency matrix of the given graph?
+",10,6,16,0,a
+4, The time complexity to calculate the number of edges in a graph whose information in stored in form of an adjacency matrix is ____________,O(V),O(E2),O(E),O(V2),b
+5, For the adjacency matrix of a directed graph the row sum is the _________ degree and the column sum is the ________ degree.,"in, out","out, in","in, total","total, out",c
+6, What is the maximum number of possible non zero values in an adjacency matrix of a simple graph with n vertices?,(n*(n-1))/2,(n*(n+1))/2,n*(n-1),n*(n+1),c
+7," On which of the following statements does the time complexity of checking if an edge exists between two particular vertices is not, depends?",Depends on the number of edges,Depends on the number of vertices,Is independent of both the number of edges and vertices,It depends on both the number of edges and vertices,a
+8," In the given connected graph G, what is the value of rad(G) and diam(G)?","2, 3","3, 2","2, 2","3, 3",d
+9, Which of these adjacency matrices represents a simple graph?,"[ [1, 0, 0], [0, 1, 0], [0, 1, 1] ] ","[ [1, 1, 1], [1, 1, 1], [1, 1, 1] ] ","[ [0, 0, 1], [0, 0, 0], [0, 0, 1] ] ","[ [0, 0, 1], [1, 0, 1], [1, 0, 0] ] ",c
+10," Given an adjacency matrix A = [ [0, 1, 1], [1, 0, 1], [1, 1, 0] ], The total no. of ways in which every vertex can walk to itself using 2 edges is ________",2,4,6,8,a
+11," If A[x+3][y+5] represents an adjacency matrix, which of these could be the value of x and y.","x=5, y=3","x=3, y=5","x=3, y=3","x=5, y=5",a

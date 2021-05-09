@@ -1,0 +1,2 @@
+1, What is a dequeue?,A queue with insert/delete defined for both front and rear ends of the queue,A queue implemented with a doubly linked list,A queue implemented with both singly and doubly linked lists,A queue with insert/delete defined for front side of the queue,a
+7, What are the applications of dequeue?,A-Steal job scheduling algorithm,Can be used as both stack and queue,To find the maximum of all sub arrays of size k,To avoid collision in hash tables,d

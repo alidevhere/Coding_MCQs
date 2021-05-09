@@ -1,0 +1,9 @@
+1, What is a skip list?,a linkedlist with size value in nodes,a linkedlist that allows faster search within an ordered sequence,a linkedlist that allows slower search within an ordered sequence,a tree which is in the form of linked list,a
+2," Consider the 2-level skip list
+
+How to access 38?",travel 20-30-35-38,travel 20-30-40-38,travel 20-38,travel 20-40-38,d
+3, Skip lists are similar to which of the following datastructure?,stack,heap,binary search tree,balanced binary search tree,a
+4,  What is the time complexity improvement of skip lists from linked lists in insertion and deletion?,O(n) to O(logn) where n is number of elements,O(n) to O(1) where n is number of elements,no change,O(n) to O(n2) where n is number of elements,a
+5, To which datastructure are skip lists similar to in terms of time complexities in worst and best cases?,balanced binary search trees,binary search trees,binary trees,linked lists,a
+6, The nodes in a skip list may have many forward references. their number is determined,probabilistically,randomly,sequentially,orthogonally,a
+8, How to maintain multi-level skip list properties when insertions and deletions are done?,design each level of a multi-level skip list with varied probabilities,that cannot be maintained,rebalancing of lists,reconstruction,a

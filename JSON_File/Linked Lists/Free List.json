@@ -1,0 +1,1 @@
+{"0": {"statement": " \"options\": {\"a\": \"static memory allocation\"", "options": {"a": " \"b\": \"dynamic memory allocation\"", "b": " \"c\": \"contagious allocations\"", "c": " \"d\": \"are used for speeding up linked list operations\"}", "d": " \"ans\": \"a\"}"}, "ans": " \"1\": {\"statement\": \" What are implicit and explicit implementations of freelists?\""}}

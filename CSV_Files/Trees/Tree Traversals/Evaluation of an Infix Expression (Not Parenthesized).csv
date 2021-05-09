@@ -1,0 +1,11 @@
+1, How many stacks are required for applying evaluation of infix expression algorithm?,one,two,three,four,a
+2, How many passes does the evaluation of infix expression algorithm makes through the input?,One,Two,Three,Four,a
+3, Identify the infix expression from the list of options given below.,a/b+(c-d),abc*+d+ab+cd+*ce-f-,ab-c-,+ab,b
+4, Which of the following statement is incorrect with respect to evaluation of infix expression algorithm?,Operand is pushed on to the stack,"If the precedence of operator is higher, pop two operands and evaluate","If the precedence of operator is lower, pop two operands and evaluate",The result is pushed on to the operand stack,c
+5, Evaluate the following statement using infix evaluation algorithm and choose the correct answer. 1+2*3-2,3,6,5,4,a
+7," Of the following choices, which operator has the lowest precedence?",^,+,/,#,b
+9," Evaluate the following and choose the correct answer.
+a/b+c*d where a=4, b=2, c=2, d=1.",1,4,5,2,a
+10, Evaluate the following statement using infix evaluation algorithm and choose the correct answer. 4*2+3-5/5,10,11,16,12,d
+11," Using the evaluation of infix expression, evaluate a^b+c  and choose the correct answer. (a=2, b=2, c=2)",12,8,10,6,a
+12," Evaluate the following infix expression using algorithm and choose the correct answer. a+b*c-d/e^f  where a=1, b=2, c=3, d=4, e=2, f=2.",6,8,9,7,c

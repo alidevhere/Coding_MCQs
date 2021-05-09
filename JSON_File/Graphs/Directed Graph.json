@@ -1,0 +1,1 @@
+{"0": {"statement": " \"options\": {\"a\": \"Tightly Connected\"", "options": {"a": " \"b\": \"Strongly Connected\"", "b": " \"c\": \"Weakly Connected\"", "c": " \"d\": \"Loosely Connected\"}", "d": " \"ans\": \"b\"}"}, "ans": " \"1\": {\"statement\": \" What is the number of unlabeled simple directed graph that can be made with 1 or 2 vertices?\""}}

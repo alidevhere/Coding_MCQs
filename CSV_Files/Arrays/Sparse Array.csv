@@ -1,0 +1,3 @@
+1, What is a sparse array?,Data structure for representing arrays of records,Data structure that compactly stores bits,An array in which most of the elements have the same value,An array in which memory is allocated in run time,b
+2, When do you use a sparse array?,When there are unique elements in the array,When the array has more occurrence of zero elements,When the data type of elements differ,When elements are sorted,b
+3, What is the difference between a normal(naive) array and a sparse array?,Sparse array can hold more elements than a normal array,Sparse array is memory efficient,Sparse array is dynamic,A naive array is more efficient,a

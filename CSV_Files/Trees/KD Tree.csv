@@ -1,0 +1,12 @@
+1, In what time can a 2-d tree be constructed?,O(N),O(N log N),O(N2),O(M log N),a
+3," In a two-dimensional search tree, the root is arbitrarily chosen to be?",even,odd,depends on subtrees,1,d
+4, Which of the following is the simplest data structure that supports range searching?,Heaps,binary search trees,AA-trees,K-d trees,a
+5," In a k-d tree, k originally meant?",number of dimensions,size of tree,length of node,weight of node,c
+6," What will be the correct sequence of insertion for the following k-d tree?
+","(30,40),(5,25),(70,70),(10,12),(50,30),(35,45)","(40,30),(5,25),(12,10),(70,70),(30,50),(45,35)","(30,40),(5,25),(10,12),(70,70),(50,30),(35,45)","(40,30),(25,5),(12,10),(70,70),(50,30),(45,35)",b
+7, Each level in a k-d tree is made of?,dimension only,cutting and dimension,color code of node,size of the level,a
+8, What is the worst case of finding the nearest neighbour?,O(N),O(N log N),O( log N),O(N3),c
+9, What is the run time of finding the nearest neighbour in a k-d tree?,O(2+ log N),O( log N),O(2d log N),O( N log N),c
+10, How many prime concepts are available in nearest neighbour search in a kd tree?,1,2,3,4,a
+11, Reducing search space by eliminating irrelevant trees is known as?,pruning,partial results,freeing space,traversing,b
+12, Several kinds of queries are possible on a k-d called as?,partial queries,range queries,neighbour queries,search queries,c

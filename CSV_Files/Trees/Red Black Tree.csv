@@ -1,0 +1,15 @@
+1, What is the special property of red-black trees and what root should always be?,a color which is either red or black and root should always be black color only,height of the tree,pointer to next node,a color which is either green or black,a
+2," Why do we impose restrictions like
+ . root property is black
+ . every leaf is black
+ . children of red node are black
+ . all leaves have same black",to get logarithm time complexity,to get linear time complexity,to get exponential time complexity,to get constant time complexity,a
+3," Cosider the below formations of red-black tree.
+
+   All the above formations are incorrect for it to be a redblack tree. then what may be the correct order?","50-black root, 18-red left subtree, 100-red right subtree","50-red root, 18-red left subtree, 100-red right subtree","50-black root, 18-black left subtree, 100-red right subtree","50-black root, 18-red left subtree, 100-black right subtree",a
+4, What are the operations that could be performed in O(logn) time complexity by red-black tree?,"insertion, deletion, finding predecessor, successor",only insertion,"only finding predecessor, successor",for sorting,c
+5, Which of the following is an application of Red-black trees and why?,used to store strings efficiently,used to store integers efficiently,"can be used in process schedulers, maps, sets",for efficient sorting,a
+6, When it would be optimal to prefer Red-black trees over AVL trees?,when there are more insertions or deletions,when more search is needed,when tree must be balanced,when log(nodes) time complexity is needed,b
+7, Why Red-black trees are preferred over hash tables though hash tables have constant time complexity?,no they are not preferred,because of resizing issues of hash table and better ordering in redblack trees,because they can be implemented using trees,because they are balanced,a
+8, How can you save memory when storing color information in Red-Black tree?,using least significant bit of one of the pointers in the node for color information,using another array with colors of each node,storing color information in the node structure,using negative and positive numbering,a
+9," When to choose Red-Black tree, AVL tree and B-trees?","many inserts, many searches and when managing more items respectively","many searches, when managing more items respectively and many inserts respectively","sorting, sorting and retrieval respectively","retrieval, sorting and retrieval respectively",a

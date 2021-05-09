@@ -1,0 +1,1 @@
+{"0": {"statement": " \"options\": {\"a\": \"O(N)\"", "options": {"a": " \"b\": \"O(N log N)\"", "b": " \"c\": \"O(N2)\"", "c": " \"d\": \"O(M log N)\"}", "d": " \"ans\": \"a\"}"}, "ans": " \"1\": {\"statement\": \" In a two-dimensional search tree"}}

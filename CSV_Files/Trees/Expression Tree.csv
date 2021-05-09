@@ -1,0 +1,4 @@
+1, The leaves of an expression tree always contain?,operators,operands,null,expression,a
+3, What does the other nodes of an expression tree(except leaves) contain?,only operands,only operators,both operands and operators,expression,c
+4, An expression tree is a kind of?,Binary search tree,Fibonacci tree,Binary tree,Treap,b
+5," The expression obtained by recursively producing a left expression, followed by an operator, followed by recursively producing a right expression is called?",prefix expression,infix expression,postfix expression,paranthesized expression,d

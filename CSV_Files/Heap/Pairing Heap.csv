@@ -1,0 +1,11 @@
+1, What is the reason for the efficiency of a pairing heap?,simplicity,time-efficient,space-efficient,advanced,c
+2, How is a pairing heap represented?,binary tree,fibonacci tree,heap ordered tree,treap,b
+4, Which node contains a pointer to its parent?,root node,right most child,left most child,left sibling,b
+5," Which of the heaps is implemented by the following figure?
+",fibonacci heaps,pairing heap,skew heap,leftist heap,a
+6, What is the basic operation performed in a pairing heap?,merge,deletion,insertion,swapping,c
+7," If there are c children of the root, how many calls to the merge procedure is required to reassemble the heap?",c,c+1,c-1,1,d
+8, Which of the following methods is the best choice for complex applications?,binary heap,d-heap,treap,pairing heap,a
+9, Pairing heaps time complexity was inspired by that of?,splay tree,treap,red-black tree,avl tree,b
+11, The amortized time efficiency for performing deletion of a minimum element is?,O(N),O(log N),O(N2),O(M log N),a
+12," Out of the following given options, which is the fastest algorithm?",fibonacci heap,pairing heap,d-ary heap,binary heap,a

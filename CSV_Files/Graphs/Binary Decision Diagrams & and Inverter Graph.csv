@@ -1,0 +1,7 @@
+1, Binary Decision Diagram is a type of __________,Multigraph,Cyclic Graph,Directed Acyclic Graph,Directed Acyclic Word Graph,a
+2, In which of the following case does a Binary Decision Diagram is used for?,Representation of Boolean Functions,String Matching,Searching,Sorting of number,b
+3," In a Binary Decision Diagram, how many types of terminal exists?",1,2,3,4,c
+4, In a Binary Decision  Diagrams 0 values by a _________ line and the 1 values are represented by a _________ line.,"dashed, bold","bold, dashed","dotted, bold","dotted, dashed",d
+5, How many nodes are required to create a Binary Decision Tree having 4 variables?,24,24-1,25,25-1,a
+7, Size of an And Inverter Graph is the number of _______ gates and the number of logic levels is number of ________ gates on the __________ path from a primary input to a primary output.,"AND, AND, average","AND, OR, longest","OR, OR, shortest","AND, AND, longest",c
+8, And Inverter Graph is a type of __________,Multigraph,Cyclic Graph,Directed Acyclic Graph,Directed Acyclic Word Graph,a

@@ -1,0 +1,4 @@
+1, What is the order of a matrix?,number of rows X number of columns,number of columns X number of rows,number of rows X number of rows,number of columns X number of columns,c
+2, Which of the following property does not hold for matrix multiplication?,Associative,Distributive,Commutative,Additive Inverse,b
+3, How do you allocate a matrix using a single pointer in C?(r and c are the number of rows and columns respectively),int *arr = malloc(r * c * sizeof(int));,int *arr = (int *)malloc(r * c * sizeof(int));,int *arr = (int *)malloc(r + c * sizeof(int));,int *arr = (int *)malloc(r * c * sizeof(arr));,a
+2, The column sum in an incidence matrix for a simple graph is __________,depends on number of edges,always greater than 2,equal to 2,equal to the number of edges,b

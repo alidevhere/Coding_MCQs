@@ -1,0 +1,4 @@
+1, Choose the correct properties of weak-heap.,Every node has value greater than the value of child node,Every right child of node has greater value than parent node,Every left child of node has greater value than parent node,Every left and right child of node has same value as parent node,b
+3, What is the other name of weak heap?,Min-heap,Max-heap,Relaxed -heap,Leonardo heap,d
+4, What is the worst case time in searching minimum value in weak -heap?,O(log n),O(n),O(n logn),O(1),b
+5, The total comparisons in finding both smallest and largest elements are,2*n +2,n + ((n+1)/2) -2,n+logn,n2,b

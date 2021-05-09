@@ -1,0 +1,36 @@
+1, A linear list of elements in which deletion can be done from one end (front) and insertion can take place only at the other end (rear) is known as _____________,Queue,Stack,Tree,Linked list,c
+2, The data structure required for Breadth First Traversal on a graph is?,Stack,Array,Queue,Tree,a
+3, A queue follows __________,FIFO (First In First Out) principle,LIFO (Last In First Out) principle,Ordered array,Linear tree,a
+4, Circular Queue is also known as ________,Ring Buffer,Square Buffer,Rectangle Buffer,Curve Buffer,a
+5," If the elements “A”, “B”, “C” and “D” are placed in a queue and are deleted one at a time, in what order will they be removed?",ABCD,DCBA,DCAB,ABDC,c
+6, A data structure in which elements can be inserted or deleted at/from both ends but not in the middle is?,Queue,Circular queue,Dequeue,Priority queue,a
+7," A normal queue, if implemented using an array of size MAX_SIZE, gets full when?",Rear = MAX_SIZE – 1,Front = (rear + 1)mod MAX_SIZE,Front = rear + 1,Rear = front,c
+8, Queues serve major role in ______________,Simulation of recursion,Simulation of arbitrary linked list,Simulation of limited resource allocation,Simulation of heap sort,b
+1, Which of the following properties is associated with a queue?,First In Last Out,First In First Out,Last In First Out,Last In Last Out,b
+2," In a circular queue, how do you increment the rear end of the queue?",rear++,(rear+1) % CAPACITY,(rear % CAPACITY)+1,rear–,a
+3, What is the term for inserting into a full queue known as?,overflow,underflow,null pointer exception,program won’t be compiled,d
+4, What is the time complexity of enqueue operation?,O(logn),O(nlogn),O(n),O(1),c
+7, What is the need for a circular queue?,effective usage of memory,easier computations,to delete elements based on priority,implement LIFO principle in queues,a
+1," In linked list implementation of queue, if only front pointer is maintained, which of the following operation take worst case linear time?",Insertion,Deletion,To empty a queue,Both Insertion and To empty a queue,c
+2," In linked list implementation of a queue, where does a new element be inserted?",At the head of link list,At the centre position in the link list,At the tail of the link list,At any position in the linked list,b
+3," In linked list implementation of a queue, front and rear pointers are tracked. Which of these pointers will change during an insertion into a NONEMPTY queue?",Only front pointer,Only rear pointer,Both front and rear pointer,No pointer will be changed,c
+4," In linked list implementation of a queue, front and rear pointers are tracked. Which of these pointers will change during an insertion into EMPTY queue?",Only front pointer,Only rear pointer,Both front and rear pointer,No pointer will be changed,a
+5," In case of insertion into a linked queue, a node borrowed from the __________ list is inserted in the queue.",AVAIL,FRONT,REAR,NULL,a
+6," In linked list implementation of a queue, from where is the item deleted?",At the head of link list,At the centre position in the link list,At the tail of the link list,Node before the tail,a
+7," In linked list implementation of a queue, the important condition for a queue to be empty is?",FRONT is null,REAR is null,LINK is empty,FRONT==REAR-1,b
+8, The essential condition which is checked before insertion in a linked queue is?,Underflow,Overflow,Front value,Rear value,a
+9, The essential condition which is checked before deletion in a linked queue is?,Underflow,Overflow,Front value,Rear value,a
+1," A Double-ended queue supports operations such as adding and removing items from both the sides of the queue. They support four operations like addFront(adding item to top of the queue), addRear(adding item to the bottom of the queue), removeFront(removing item from the top of the queue) and removeRear(removing item from the bottom of the queue). You are given only stacks to implement this data structure. You can implement only push and pop operations. What are the total number of stacks required for this operation?(you can reuse the stack)",1,2,3,4,a
+2, You are asked to perform a queue operation using a stack. Assume the size of the stack is some value ‘n’ and there are ‘m’ number of variables in this stack. The time complexity of performing deQueue operation is (Using only stack operations like push and pop)(Tightly bound).,O(m),O(n),O(m*n),Data is insufficient,a
+3, Consider you have an array of some random size. You need to perform dequeue operation. You can perform it using stack operation (push and pop) or using queue operations itself (enQueue and Dequeue). The output is guaranteed to be same. Find some differences?,They will have different time complexities,The memory used will not be different,There are chances that output might be different,No differences,a
+4," Consider you have a stack whose elements in it are as follows.
+5 4 3 2 << top
+Where the top element is 2.
+You need to get the following stack
+6 5 4 3 2 << top
+The operations that needed to be performed are (You can perform only push and pop):","Push(pop()), push(6), push(pop())","Push(pop()), push(6)","Push(pop()), push(pop()), push(6)",Push(6),b
+5," A double-ended queue supports operations like adding and removing items from both the sides of the queue. They support four operations like addFront(adding item to top of the queue), addRear(adding item to the bottom of the queue), removeFront(removing item from the top of the queue) and removeRear(removing item from the bottom of the queue). You are given only stacks to implement this data structure. You can implement only push and pop operations. What’s the time complexity of performing addFront and addRear? (Assume ‘m’ to be the size of the stack and ‘n’ to be the number of elements)",O(m) and O(n),O(1) and O(n),O(n) and O(1),O(n) and O(m),a
+6, Why is implementation of stack operations on queues not feasible for a large dataset (Asssume the number of elements in the stack to be n)?,Because of its time complexity O(n),Because of its time complexity O(log(n)),Extra memory is not required,There are no problems,d
+7, Consider yourself to be in a planet where the computational power of chips to be slow. You have an array of size 10.You want to perform enqueue some element into this array. But you can perform only push and pop operations .Push and pop operation both take 1 sec respectively. The total time required to perform enQueue operation is?,20,40,42,43,b
+8," You have two jars, one jar which has 10 rings and the other has none. They are placed one above the other. You want to remove the last ring in the jar. And the second jar is weak and cannot be used to store rings for a long time.",Empty the first jar by removing it one by one from the first jar and placing it into the second jar,Empty the first jar by removing it one by one from the first jar and placing it into the second jar and empty the second jar by placing all the rings into the first jar one by one,There exists no possible way to do this,Break the jar and remove the last one,c
+9, Given only a single array of size 10 and no other memory is available. Which of the following operation is not feasible to implement (Given only push and pop operation)?,Push,Pop,Enqueue,Returntop,d

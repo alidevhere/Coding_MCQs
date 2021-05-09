@@ -1,0 +1,3 @@
+1, What is the space complexity of searching in a heap?,O(logn),O(n),O(1),O(nlogn),d
+2, What is the best case complexity in building a heap?,O(nlogn),O(n2),O(n*longn *logn),O(n),a
+5, What is the location of a parent node for any arbitary node i?,(i/2) position,(i+1)/ position,floor(i/2) position,ceil(i/2) position,a

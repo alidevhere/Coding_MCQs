@@ -1,0 +1,9 @@
+1, The self organizing list improves the efficiency of _______,binary search,jump search,sublist search,linear search,c
+2, Which of the following is true about the Move-To-Front Method for rearranging nodes?,node with highest access count is moved to head of the list,requires extra storage,may over-reward infrequently accessed nodes,requires a counter for each node,a
+3, What technique is used in Transpose method?,searched node is swapped with its predecessor,node with highest access count is moved to head of the list,searched node is swapped with the head of list,searched nodes are rearranged based on their proximity to the head node,c
+4, The worst case running time of a linear search on the self organizing list is ____,O(1),O(logn),O(n),O(n2),c
+5, Which of the following data structure is preferred to have lesser search time when the list size is small?,search tree,sorted list,self organizing list,linked list,b
+6," In _____________ method, whenever a node is accessed, it might move to the head of the list if its number of accesses becomes greater than the records preceding it.",least recently used,count,traspose,exchange,c
+7, Symbol tables during compilation of program is efficiently implemented using __________,a singly linked list,a doubly linked list,a self organizing list,an array,b
+8, Which of the following method performs poorly when elements are accessed in sequential order?,count method,move to front method,transpose meth,ordering method,a
+9, The self organizing list improves _____,average access time,insertion,deletion,binary search,d

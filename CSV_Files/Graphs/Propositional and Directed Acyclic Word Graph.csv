@@ -1,0 +1,7 @@
+1, In which of the following does a Directed Acyclic Word Graph finds its application in?,String Matching,Number Sorting,Manipulations on numbers,Pattern Printing,b
+2," What is the number of words that can be formed from the given Directed Acyclic Word Graph?
+",2,4,12,7,a
+3," Determine the longest string which is described by the given Directed Acyclic Word Graph.
+",BATS,BOATS,BOT,BAT,a
+4," What is time complexity to check if a string(length S1) is a substring of another string(length S2) stored in a Directed Acyclic Word Graph, given S2 is greater than S1?",O(S1),O(S2),O(S1+S2),O(1),a
+5, In which of the following case does a Propositional Directed Acyclic Graph is used for?,Representation of Boolean Functions,String Matching,Searching,Sorting of number,c

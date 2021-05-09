@@ -1,0 +1,12 @@
+2, How many properties does a leftist heap support?,1,2,3,4,d
+3," In a leftist heap, the null path length of a null node is defined as?",0,1,null,-1,b
+4, How many nodes does a leftist tree with r nodes must have?,2r,2r-1,2r,2r-1,c
+5, Which of the following operations does not destroy the leftist heap property?,insert,merge,delete,swap,b
+6, What is the fundamental operation on leftist heap?,insertion,merging,deletion,swapping,a
+8, What is the efficiency of merge used in leftist heaps?,O(N),O(N log N),O(M log N),O(log N),c
+9, What is the node path length of a node with 0 or 1 child?,1,-1,0,null,b
+10, Why is this heap named leftist heap?,only left subtrees exist,the tree is biased to get deep down the left,it is balanced,right trees are unbalanced,c
+11," In a leftist heap, all the operations should be performed on?",left path,centre path,right path,root,d
+12, What would be the result if the left subtree of the root has a null path length of 1 and the right subtree has a null path length of 2?,merge occurs without violation,violation at left subtree,violation at right subtree,violation at the root,b
+13, What happens if the null path length is not updated?,error occurs,all null path lengths will be 0,all null path lengths will be -1,all null path lengths will be 1,c
+14, What is the time taken to delete a minimum element in a leftist heap?,O(N),O(N log N),O(log N),O(M log N),a

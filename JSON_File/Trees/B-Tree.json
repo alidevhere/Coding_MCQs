@@ -1,0 +1,1 @@
+{"0": {"statement": " \"options\": {\"a\": \"AVL tree\"", "options": {"a": " \"b\": \"B-tree\"", "b": " \"c\": \"Red-black tree\"", "c": " \"d\": \"Both AVL tree and Red-black tree\"}", "d": " \"ans\": \"d\"}"}, "ans": " \"1\": {\"statement\": \" B-tree of order n is a order-n multiway tree in which each non-root node contains __________\""}}

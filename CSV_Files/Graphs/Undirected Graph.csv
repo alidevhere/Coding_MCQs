@@ -1,0 +1,14 @@
+1,  The number of possible undirected graphs which may have self loops but no multiple edges and have n vertices  is ________,2((n*(n-1))/2),2((n*(n+1))/2),2((n-1)*(n-1))/2),2((n*n)/2),b
+2," Given a plane graph, G having 2 connected component, having 6 vertices, 7 edges and 4 regions. What will be the number of connected components?",1,2,3,4,d
+3, Number of vertices with odd degrees in a graph having a eulerian  walk is ________,0,Can’t be predicted,2,either 0 or 2,b
+4," How many of the following statements are correct?
+i)  All cyclic graphs are complete graphs.
+ii) All complete graphs are cyclic graphs.
+iii) All paths are bipartite.
+iv) All cyclic graphs are bipartite.
+v) There are cyclic graphs which are complete.",1,2,3,4,b
+6," What is the number of vertices of degree 2 in a path graph having n vertices,here n>2.",n-2,n,2,0,a
+8," Which of the following graphs are isomorphic to each other?
+",fig 1 and fig 2,fig 2 and fig 3,fig 1 and fig 3,"fig 1, fig 2 and fig 3",a
+9," In the given graph which edge should be removed to make it a Bipartite Graph?
+",A-C,B-E,C-D,D-E,b

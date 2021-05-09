@@ -1,0 +1,28 @@
+1, Process of inserting an element in stack is called ____________,Create,Push,Evaluation,Pop,d
+2, Process of removing an element from stack is called __________,Create,Push,Evaluation,Pop,a
+3," In a stack, if a user tries to remove an element from an empty stack it is called _________",Underflow,Empty collection,Overflow,Garbage Collection,a
+4," Pushing an element into stack already having five elements and stack size of 5, then stack becomes ___________",Overflow,Crash,Underflow,User flow,d
+5, Entries in a stack are “ordered”. What is the meaning of this statement?,A collection of stacks is sortable,Stack entries may be compared with the ‘<‘ operation,The entries are stored in a linked list,There is a Sequential entry that is one by one,d
+6, Which of the following is not the application of stack?,A parentheses balancing program,Tracking of local variables at run time,Compiler Syntax Analyzer,Data Transfer between two asynchronous process,c
+7, Consider the usual algorithm for determining whether a sequence of parentheses is balanced. The maximum number of parentheses that appear on the stack AT ANY ONE TIME when the algorithm analyzes: (()(())(()))?,1,2,3,4 or more,b
+8, Consider the usual algorithm for determining whether a sequence of parentheses is balanced. Suppose that you run the algorithm on a sequence that contains 2 left parentheses and 3 right parentheses (in some order). The maximum number of parentheses that appear on the stack AT ANY ONE TIME during the computation?,1,2,3,4 or more,d
+9, What is the value of the postfix expression 6 3 2 4 + – *?,1,40,74,-18,d
+1, The postfix form of the expression (A+ B)*(C*D- E)*F / G is?,AB+ CD*E – FG /**,AB + CD* E – F **G /,AB + CD* E – *F *G /,AB + CDE * – * F *G /,a
+2, The data structure required to check whether an expression contains a balanced parenthesis is?,Stack,Queue,Array,Tree,b
+3, What data structure would you mostly likely see in non recursive implementation of a recursive algorithm?,Linked List,Stack,Queue,Tree,d
+4, The process of accessing data stored in a serial access memory is similar to manipulating data on a ________,Heap,Binary Tree,Array,Stack,b
+5, The postfix form of A*B+C/D is?,*AB/CD+,AB*CD/+,A*BC+/D,ABCD+/*,d
+6, Which data structure is needed to convert infix notation to postfix notation?,Branch,Tree,Queue,Stack,c
+7, The prefix form of A-B/ (C * D ^ E) is?,-/*^ACBDE,-ABCD*^DE,-A/B*C^DE,-A/BC*^DE,a
+8," What is the result of the following operation?
+Top (Push (S, X))",X,X+S,S,XS,c
+9, The prefix form of an infix expression (p + q) – (r * t) is?,#NAME?,– +pqr * t,– +pq * rt,– + * pqrt,b
+1," The result of evaluating the postfix expression 5, 4, 6, +, *, 4, 9, 3, /, +, * is?",600,350,650,588,a
+1, What is the best case time complexity of deleting a node in a Singly Linked list?,O (n),O (n2),O (nlogn),O (1),d
+2, Which of the following statements are not correct with respect to Singly Linked List(SLL) and Doubly Linked List(DLL)?,Complexity of Insertion and Deletion at known position is O(n) in SLL and O(1) in DLL,SLL uses lesser memory per node than DLL,DLL has more searching power than SLL,Number of node fields in SLL is more than DLL,a
+1, Which of the following real world scenarios would you associate with a stack data structure?,piling up of chairs one above the other,people standing in a line to be serviced at a counter,offer services based on the priority of the customer,tatkal Ticket Booking in IRCTC,c
+4, What does ‘stack underflow’ refer to?,accessing item from an undefined stack,adding items to a full stack,removing items from an empty stack,index out of bounds exception,a
+7, What is the time complexity of pop() operation when the stack is implemented using an array?,O(1),O(n),O(logn),O(nlogn),d
+8, Which of the following array position will be occupied by a new element being pushed for a stack of size N elements(capacity of stack > N)?,S[N-1] ,S[N] ,S[1] ,S[0] ,a
+9, What happens when you pop from an empty stack while implementing using the Stack ADT in Java?,Undefined error,Compiler displays a warning,EmptyStackException is thrown,NoStackException is thrown,a
+1," To implement a stack using queue(with only enqueue and dequeue operations), how many queues will you need?",1,2,3,4,a

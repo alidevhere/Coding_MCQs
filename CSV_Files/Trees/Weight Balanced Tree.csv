@@ -1,0 +1,6 @@
+1, What is a weight balanced tree?,A binary tree that stores the sizes of subtrees in nodes,A binary tree with an additional attribute of weight,A height balanced binary tree,A normal binary tree,a
+2, What are the applications of weight balanced tree?,"dynamic sets, dictionaries, sequences, maps",heaps,sorting,storing strings,a
+3, A node of the weight balanced tree has,"key, left and right pointers, size","key, value","key, size",key,a
+5, What is the condition for a tree to be weight balanced. where a is factor and n is a node?,weight[n.left] >= a*weight[n] and weight[n.right] >= a*weight[n].,weight[n.left] >= a*weight[n.right] and weight[n.right] >= a*weight[n].,weight[n.left] >= a*weight[n.left] and weight[n.right] >= a*weight[n].,weight[n] is a non zero,a
+6, What are the operations that can be performed on weight balanced tree?,"all basic operations and set intersection, set union and subset test",all basic operations,"set intersection, set union and subset test",only insertion and deletion,d
+7," Consider a weight balanced tree such that, the number of nodes in the left sub tree is at least half and at most twice the number of nodes in the right sub tree. The maximum possible height (number of nodes on the path from the root to the farthest leaf) of such a tree on k nodes can be described as",log2 n,log4/3 n,log3 n,log3/2 n,a

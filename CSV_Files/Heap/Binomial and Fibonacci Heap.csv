@@ -1,0 +1,6 @@
+1, The main distinguishable characterstic of a binomial heap from a binary heap is that,it allows union operations very efficiently,it does not allow union operations that could easily be implemented in binary heap,the heap structure is not similar to complete binary tree,"the location of child node is not fixed i.e child nodes could be at level (h-2) or (h-3), where h is height of heap and h>4",a
+2, The number of trees in a binomial heap with n nodes is,logn,n,nlogn,n/2,b
+6, What is order of resultant heap after merging two tree of order k?,2*k,k+1,k*k,k+logk,c
+7, Time taken in decreasing the node value in a binomial heap is,O(n),O(1),O(logn),O(nlogn),c
+10, Which of these operations have same complexities?,"Insertion, find_min","Find_min, union","Union, Insertion","Deletion, Find _max",a
+12, Given a heap of n nodes.The maximum number of tree for building the heap is.,n,n-1,n/2,logn,a

@@ -1,0 +1,4 @@
+1," What will be the minimum number of jumps required to reach the end of the array arr[] = {1,3,6,3,6,8,5}?",1,2,3,not possible to reach the end,d
+2," What will be the minimum number of jumps required to reach the end of the array arr[] ={0,1,3,6,3,6,8,5}?",1,2,3,not possible to reach the end,c
+9," What will be the minimum number of jumps required to reach the end of the array arr[] = {1,2,0,0,3,6,8,5}?",1,2,3,not possible to reach the end,d
+11," In how many different ways we can reach the end of the array arr[]={1,3,5,8,9}?",1,2,3,4,a

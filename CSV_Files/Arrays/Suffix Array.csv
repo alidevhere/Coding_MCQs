@@ -1,0 +1,7 @@
+1, Which of the following is false?,Suffix array is always sorted,Suffix array is used in string matching problems,Suffix array is always unsorted,Suffix array contains all the suffixes of the given string,a
+2, Suffix array of the string “statistics” is ____________,2 8 7 4 9 0 5 1 6 3,2 7 4 9 8 0 5 1 6 3,2 4 9 0 5 7 8 1 6 3,2 8 7 0 5 1 6 9 4 3,c
+3, Suffix array can be created by performing __________ traversal of a suffix tree.,breadth-first,level order,depth-first,either breadth-first or level order,b
+5," If comparison based sorting algorithm is used construct the suffix array, then what will be time required to construct the suffix array?",O(nlogn),O(n2),O(n2logn),O(n2) + O(logn),d
+6, What will be the suffix array of the string “engineering”?,2 3 8 4 9 1 7 5 0 6 10,5 0 6 1 4 9 1 7 0 2 3 8,5 0 6 10 2 4 9 1 7 3 8,5 0 6 10 2 3 8 4 9 1 7,c
+7, LCP array and ______ is used to construct suffix tree.,Hash tree,Hash trie,Suffix array,Balanced tree,d
+8, What is the time required to locate the occurrences of a pattern P of length m in a string of length n using suffix array?,O(nm),O(n2),O(mnlogn),O(mlogn),a

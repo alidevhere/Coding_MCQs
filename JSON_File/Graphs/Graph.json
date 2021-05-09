@@ -1,0 +1,1 @@
+{"0": {"statement": " \"options\": {\"a\": \"Every path is a trail\"", "options": {"a": " \"b\": \"Every trail is a path\"", "b": " \"c\": \"Every trail is a path as well as every path is a trail\"", "c": " \"d\": \"Path and trail have no relation\"}", "d": " \"ans\": \"d\"}"}, "ans": " \"1\": {\"statement\": \" In the given graph identify the cut vertices.\\n\""}}

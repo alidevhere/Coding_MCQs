@@ -1,0 +1,6 @@
+1, What are splay trees?,self adjusting binary search trees,self adjusting binary trees,a tree with strings,a tree with probability distributions,b
+2, Which of the following property of splay tree is correct?,it holds probability usage of the respective sub trees,"any sequence of j operations starting from an empty tree with h nodes atmost, takes O(jlogh) time complexity",sequence of operations with h nodes can take O(logh) time complexity,splay trees are unstable trees,c
+3, Why to prefer splay trees?,easier to program,space efficiency,easier to program and faster access to recently accessed items,quick searching,a
+5, What is a splay operation?,moving parent node to down of child,moving a node to root,moving root to leaf,removing leaf node,a
+6, Which of the following options is an application of splay trees?,cache Implementation,networks,send values,receive values,b
+7," When we have red-black trees and AVL trees that can perform most of operations in logarithmic times, then what is the need for splay trees?",no there is no special usage,"In real time it is estimated that 80% access is only to 20% data, hence most used ones must be easily available",redblack and avl are not upto mark,they are just another type of self balancing binary search trees,a

@@ -1,0 +1,5 @@
+1, Which of the following is not a random tree?,Treap,Random Binary Tree,Uniform Spanning Tree,AVL Tree,a
+2, Which process forms the randomized binary search tree?,Stochastic Process,Branching Process,Diffusion Process,Aggregation Process,d
+3," How many randomized binary search trees can be formed by the numbers (1, 3, 2)?",2,3,6,5,d
+4, What is the expected depth of a node in a randomized binary search tree?,log n,n!,n2,2 log n + O(1),d
+5, What is the longest length path for a node x in random binary search tree for the insertion process?,log x,x2,x!,4.311 log x,d

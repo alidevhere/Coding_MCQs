@@ -1,0 +1,6 @@
+1, Which matrix has most of the elements (not all) as Zero?,Identity Matrix,Unit Matrix,Sparse Matrix,Zero Matrix,a
+2, What is the relation between Sparsity and Density of a matrix?,Sparsity = 1 – Density,Sparsity = 1 + Density,Sparsity = Density*Total number of elements,Sparsity = Density/Total number of elements,a
+3, Who coined the term Sparse Matrix?,Harry Markowitz,James Sylvester,Chris Messina,Arthur Cayley,a
+5, The matrix contains m rows and n columns. The matrix is called Sparse Matrix if ________,Total number of Zero elements > (m*n)/2,Total number of Zero elements = m + n,Total number of Zero elements = m/n,Total number of Zero elements = m-n,d
+6, Which of the following is not the method to represent Sparse Matrix?,Dictionary of Keys,Linked List,Array,Heap,b
+8, Which one of the following is a Special Sparse Matrix?,Band Matrix,Skew Matrix,Null matrix,Unit matrix,b

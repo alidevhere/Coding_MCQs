@@ -1,0 +1,19 @@
+1, What is the other name for a postfix expression?,Normal polish Notation,Reverse polish Notation,Warsaw notation,Infix notation,b
+2, Which of the following is an example for a postfix expression?,a*b(c+d),abc*+de-+,+ab,a+b-c,b
+4, What is the time complexity of evaluation of postfix expression algorithm?,O (N),O (N log N),O (N2),O (M log N),a
+6, Which of these operators have the highest order of precedence?,‘(‘ and ‘)’,‘*’ and ‘/’,‘~’ and ‘^’,‘+’ and ‘-‘,d
+7, Which of the following is not an application of stack?, evaluation of postfix expression, conversion of infix to postfix expression, balancing symbols, line at ticket counter,b
+8," While evaluating a postfix expression, when an operator is encountered, what is the correct operation to be performed?",push it directly on to the stack,"pop 2 operands, evaluate them and push the result on to the stack",pop the entire stack,ignore the operator,a
+9, Which of the following statement is incorrect?,Postfix operators use value to their right,Postfix operators use value to their left,Prefix operators use value to their right,"In postfix expression, operands are followed by operators",d
+10," What is the result of the given postfix expression?  abc*+ where a=1, b=2, c=3.",4,5,6,7,a
+11," What is the result of the following postfix expression?
+  ab*cd*+ where a=2,b=2,c=3,d=4.",16,12,14,10,a
+12," Consider the stack
+| 5 |
+| 4 |
+| 3 |
+| 2 |.
+At this point, ‘*’ is encountered. What has to be done?",5*4=20 is pushed into the stack,* is pushed into the stack,2*3=6 is pushed into the stack,* is ignored,c
+13," Evaluate the postfix expression ab + cd/- where a=5, b=4, c=9, d=3.",23,15,6,10,b
+14," Evaluate and write the result for the following postfix expression
+   abc*+de*f+g*+ where a=1, b=2, c=3, d=4, e=5, f=6, g=2.",61,59,60,55,a

@@ -1,0 +1,1 @@
+{"0": {"statement": " \"options\": {\"a\": \"A data structure that shows a hierarchical behavior\"", "options": {"a": " \"b\": \"Container of objects of similar types\"", "b": " \"c\": \"Arrays are immutable once initialised\"", "c": " \"d\": \"Array is not a data structure\"}", "d": " \"ans\": \"c\"}"}, "ans": " \"1\": {\"statement\": \" How do you initialize an array in C?\""}}

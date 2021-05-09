@@ -1,0 +1,4 @@
+1, Free lists are used in,static memory allocation,dynamic memory allocation,contagious allocations,are used for speeding up linked list operations,a
+2, What are implicit and explicit implementations of freelists?,garbage collection and new or malloc operators respectively,new or malloc and garbage collection respectively,implicit implementation is not favored,explicit implementation is not favored,b
+3, What datastructures can be used in implementing a free list?,only linked list,linked list or sort trees,arrays,trees,a
+4, What are different ways of implementing free lists and which is simple among them?,"best fit, first fit, worst fit, simple-first fit","best fit, first fit, worst fit, simple-best fit","best fit, first fit, worst fit, simple-worst fit",best fit  simple-best fit,b

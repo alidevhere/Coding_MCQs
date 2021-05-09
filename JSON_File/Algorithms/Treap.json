@@ -1,0 +1,1 @@
+{"0": {"statement": " \"options\": {\"a\": \"O(N)\"", "options": {"a": " \"b\": \"O(log N)\"", "b": " \"c\": \"O(log N)\"", "c": " \"d\": \"O(N2)\"}", "d": " \"ans\": \"b\"}"}, "ans": " \"1\": {\"statement\": \" Which is the simplest of all binary search trees?\""}}

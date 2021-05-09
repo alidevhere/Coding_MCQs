@@ -1,0 +1,5 @@
+1, What is an AVL tree?,a tree which is balanced and is a height balanced tree,a tree which is unbalanced and is a height balanced tree,a tree with three children,a tree with atmost 3 children,a
+2, Why we need to a binary tree which is height balanced?,to avoid formation of skew trees,to save memory,to attain faster memory access,to simplify storing,b
+3," Which of the below diagram is following AVL tree property?
+ i.
+ii.",only i,only i and ii,only ii,i is not a binary search tree,b

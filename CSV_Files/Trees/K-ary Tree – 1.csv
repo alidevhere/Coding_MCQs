@@ -1,0 +1,16 @@
+1, How many child nodes does each node of K-ary Tree contain?,2,3,more than k,at most k,d
+2, Which of the following is the name of the node having child nodes?,Brother,Sister,Mother,Parent,c
+3, What is the depth of the root node of K-ary tree?,2,1,0,3,d
+4, What is the Height of the root node of K-ary tree?,1,2,3,0,a
+5," Which node is the root node of the following K-ary tree?
+",A,B,C,D,d
+6," Which node is the Leaf node in the following K-ary tree?
+",A,B,D,F,c
+7," Which node is the parent node of Node 5?
+",1,5,2,3,a
+9," Which node is the child node of Node C in the following K-ary tree?
+",A,C,G,H,d
+10," Which node is the child node of the Node B in the following K-ary tree?
+",A,C,B,No child node,c
+11," What is the depth of Node F in the given K-ary tree?
+",0,1,2,3,c

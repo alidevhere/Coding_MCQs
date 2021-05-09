@@ -1,0 +1,15 @@
+1, What is a Cartesian tree?,a skip list in the form of tree,a tree which obeys cartesian product,a tree which obeys heap property and whose inorder traversal yields the given sequence,a tree which obeys heap property only,a
+3," Which of the below statements are true?
+i. Cartesian tree is not a height balanced tree
+ii. Cartesian tree of a sequence of unique numbers can be unique generated",both statements are true,only i. is true,only ii. is true,both are false,a
+4, What is the speciality of cartesian sorting?,it sorts partially sorted set of data quickly,it considers cartesian product of elements,it sorts elements in less than O(logn),it is a self balancing tree,a
+5," Consider a sequence of numbers to have repetitions, how a cartesian tree can be constructed in such situations without violating any rules?",use any tie-breaking rule between repeated elements,cartesian tree is impossible when repetitions are present,construct a max heap in such cases,construct a min heap in such cases,b
+6," What happens if we apply the below operations on an input sequence?
+i. construct a cartesian tree for input sequence
+ii. put the root element of above tree in a priority queue
+iii. if( priority queue is not empty) then
+iv. search and delete minimum value in priority queue
+v. add that to output
+vi. add cartesian tree children of above node to priority queue",constructs a cartesian tree,sorts the input sequence,does nothing,produces some random output,c
+7, Cartesian trees are most suitable for?,searching,finding nth element,minimum range query and lowest common ancestors,self balancing a tree,a
+8, A treap is a cartesian tree with ___________,"additional value, which is a priority value to the key generated randomly","additional value, which is a priority value to the key generated sequentially",additional heap rule,additional operations like remove a range of elements,a

@@ -1,0 +1,10 @@
+1, What is a bit array?,Data structure for representing arrays of records,Data structure that compactly stores bits,An array in which most of the elements have the same value,Array in which elements are not present in continuous locations,a
+2, Which of the following bitwise operations will you use to set a particular bit to 1?,OR,AND,XOR,NOR,b
+3, Which of the following bitwise operations will you use to set a particular bit to 0?,OR,AND,XOR,NAND,c
+4, Which of the following bitwise operations will you use to toggle a particular bit?,OR,AND,XOR,NOT,d
+5, Which of the following is not an advantage of bit array?,Exploit bit level parallelism,Maximal use of data cache,Can be stored and manipulated in the register set for long periods of time,Accessing Individual Elements is easy,d
+6, Which of the following is not a disadvantage of bit array?,"Without compression, they might become sparse",Accessing individual bits is expensive,"Compressing bit array to byte/word array, the machine also has to support byte/word addressing",Storing and Manipulating in the register set for long periods of time,d
+7, Which of the following is/are not applications of bit arrays?,Used by the Linux kernel,For the allocation of memory pages,Bloom filter,Implementation of Vectors and Matrices,a
+8, Which class in Java can be used to represent bit array?,BitSet,BitVector,BitArray,BitStream,b
+9, Which of the following bitwise operator will you use to invert all the bits in a bit array?,OR,NOT,XOR,NAND,a
+11, What does Hamming weight/population count mean in Bit arrays?,Finding the number of 1 bit in a bit array,Finding the number of 0 bit in a bit array,Finding the sum of bits in a bit array,Finding the average number of 1’s and 0’s in bit arrays,b

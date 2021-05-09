@@ -1,0 +1,1 @@
+{"0": {"statement": " \"options\": {\"a\": \"O (N)\"", "options": {"a": " \"b\": \"O (N log N)\"", "b": " \"c\": \"O (M log N)\"", "c": " \"d\": \"O (N2)\"}", "d": " \"ans\": \"a\"}"}, "ans": " \"1\": {\"statement\": \" Which application of stack is used to ensure that the pair of parentheses is properly nested?\""}}

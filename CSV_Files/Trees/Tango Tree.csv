@@ -1,0 +1,12 @@
+1, Who developed the concept of tango tree?,Erik Demaine,Mihai Patrascu,John Lacono,All of the mentioned,c
+2, Which type of tree is tango tree?,Ternary Tree,AVL Tree,Binary Search Tree,K-ary Tree,b
+3, After which city is tango tree named?,Vatican City,Buenos Aires,New York,California,d
+4, Which type of binary search tree or algorithm does tango tree use?,Online,Offline,Static,Dynamic,d
+5, What is the time complexity of for achieving competitive ratio by tango tree?,O (log n),O (n2),O (n!),O (log (log n)),a
+6, Which type of binary search tree is imitated for construction of tango tree?,Complete Binary Search Tree,Perfect Binary Search Tree,Balanced Binary Search Tree,Degenerate Binary Search Tree,a
+7, Which special balanced binary search tree is used to store the nodes of auxiliary tree?,Red – Black Tree,Red – Brown Tree,Red – Yellow Tree,Red – Tango Tree,a
+9, Which operation is used to combine two auxiliary trees?,Join,Combinatorial,Add,Concatenation,a
+11, Which operation is used to break a preferred path into two sets of parts at a particular node?,Differentiate,Cut,Integrate,Join,d
+12, What is the upper bound for a tango tree if k is a number of interleaves?,k+2 O (log (log n)),k O (log n),K2 O (log n),k+1 O (log (log n)),d
+13, What is the time complexity for searching k+1 auxiliary trees?,k+2 O (log (log n)),k+1 O (log n),K+2 O (log n),k+1 O (log (log n)),d
+14, What is the time complexity for the update cost on auxiliary trees?,O (log (log n)),k-1 O (log n),K2 O (log n),k+1 O (log (log n)),b

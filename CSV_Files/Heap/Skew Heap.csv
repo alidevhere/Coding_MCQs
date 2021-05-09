@@ -1,0 +1,11 @@
+1, ___________ is a self-adjusting version of a leftist heap.,Rightist heap,Skew heap,d-heap,Binary heap,a
+2, The worst case running time of all operations in a skew heap is given as?,O(N),O(N log N),O(N2),O(M log N),d
+3, What is the amortized cost per operation of a skew heap?,O(N),O(N log N),O(N2),O(log N),a
+4, The relationship of skew heaps to leftist heaps is analogous to that of?,Splay tree and AVL tree,Red black tree and AVL tree,Binary tree and Splay tree,Binary tree and Red black tree,c
+5, What is the fundamental operation performed in skew heaps?,intersection,difference,merging,sorting,b
+6," What is the time per operation of merging, insertion and deletion operations in a skew heap?",O(N),O(log N),O(N log N),O(N2),c
+7, Why would a recursive implementation fail in skew heaps?,skew heaps are self adjusting,efficiency gets reduced,lack of stack space,time complexity,a
+8, Which of the following is difficult to determine the right path length?,Skew heaps,Binomial tree,Leftist heap,d-heap,a
+9, The worst case analysis for a naïve merge is given as?,O(N),O( log N),O( N log N),O(N2),b
+10, How many types of the merge are available in skew heaps?,1,2,3,4,b
+12, What is the amortized efficiency of skew merge?,O(N),O( log N),O( N log N),O(N2),b

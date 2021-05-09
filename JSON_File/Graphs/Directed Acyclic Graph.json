@@ -1,0 +1,1 @@
+{"0": {"statement": " \"options\": {\"a\": \"A B C D E F\"", "options": {"a": " \"b\": \"A B F E D C\"", "b": " \"c\": \"A B E C F D\"", "c": " \"d\": \"A B C D F E\"}", "d": " \"ans\": \"a\"}"}, "ans": " \"1\": {\"statement\": \" With V(greater than 1) vertices"}}

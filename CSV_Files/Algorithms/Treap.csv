@@ -1,0 +1,7 @@
+1, What is the space complexity of a treap algorithm?,O(N),O(log N),O(log N),O(N2),b
+3, Which is the simplest of all binary search trees?,AVL tree,Treap,Splay tree,Binary heap,d
+4, What is the reason behind the simplicity of a treap?,Each node has data and a pointer,Each node is colored accordingly,It is a binary search tree following heap principles,Each node has a fixed priority field,b
+5, What is the condition for priority of a node in a treap?,a node’s priority should be greater than its parent,a node’s priority should be at least as large as its parent,the priority is randomly assigned and can have any value,a node’s priority is always given in decreasing order,a
+7, What is the average running time of a treap?,O(N),O(N log N),O(log N),O(M log N),a
+8, Which node has the lowest priority in a treap?,root node,leaf node,null node,centre node,d
+9, What is the priority of a null node?,1,0,random number,infinity,a

@@ -1,0 +1,10 @@
+1, What is the time complexity of balancing parentheses algorithm?,O (N),O (N log N),O (M log N),O (N2),a
+2, Which application of stack is used to ensure that the pair of parentheses is properly nested?,Balancing symbols,Reversing a stack,Conversion of an infix to postfix expression,Conversion of an infix to prefix expression,b
+3," In balancing parentheses algorithm, the string is read from?",right to left,left to right,center to right,center to left,a
+4, Which is the most appropriate data structure for applying balancing of symbols algorithm?,stack,queue,tree,graph,d
+5, Which of the following does the balancing symbols algorithm include?,balancing double quotes,balancing single quotes,balancing operators and brackets,"balancing parentheses, brackets and braces",b
+6, Which of the following statement is incorrect with respect to balancing symbols algorithm?,{[()]},([ )] ,{( )},{ [ ] },a
+7, What should be done when an opening parentheses is read in a balancing symbols algorithm?,push it on to the stack,throw an error,ignore the parentheses,pop the stack,c
+8," When the corresponding end bracket/braces/parentheses is not found, what happens?",The stack is popped,Ignore the parentheses,An error is reported,It is treated as an exception,b
+9," If the corresponding end bracket/braces/parentheses is encountered, which of the following is done?",push it on to the stack,pop the stack,throw an error,treated as an exception,a
+12, How many passes does the balancing symbols algorithm makes through the input?,one,two,three,four,c

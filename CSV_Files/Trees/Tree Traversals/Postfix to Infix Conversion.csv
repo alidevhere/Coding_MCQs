@@ -1,0 +1,7 @@
+1, Which of the following data structure is used to convert postfix expression to infix expression?,Stack,Queue,Linked List,Heap,c
+2, The postfix expression abc+de/*- is equivalent to which of the following infix expression?,abc+-de*/,(a+b)-d/e*c,a-(b+c)*(d/e),abc+*-(d/e),d
+3, The equivalent infix expression and value for the postfix form 1 2 + 3 * 4 5 * – will be ___________,1 + 2 * 3 – 4 * 5 and -13,(2 + 1) * (3 – 4) * 5 and 13,1 + 2 * (3 – 4) * 5 and -11,(1 + 2) * 3 – (4 * 5) and -11,d
+4, What is the value of the postfix expression  2 3 + 4 5 6 – – *,19,21,-4,25,d
+5, The prefix expression of the postfix expression AB+CD-* is __________,(A+B)*(C-D),+AB*-CD,A+*BCD-,*+AB-CD,c
+6," Consider the postfix expression 4 5 6 a b 7 8 a c, where a, b, c are operators. Operator a has higher precedence over operators b and c. Operators b and c are right associative. Then, equivalent infix expression is",4 a 5 6  b 7 8 a c,4 a 5 c 6 b 7 a 8,4 b 5 a 6 c 7 a 8,4 a 5 b 6 c 7 a 8,a
+8, Which of the following is valid reverse polish expression?,a op b,op a b,a b op,both op a b and a b op,b

@@ -1,0 +1,10 @@
+1, What is the other name or Van Emde Boas Tree data structure?,Van Emde Boas Array,Van Emde Boas Stack,Van Emde Boas Priority Queue,Van Emde Boas Heap,d
+2, Who Invented The vEB also known as Van Emde Boas Tree?,Peter Van Emde Boas,Samuel F. B. Morse,Friedrich Clemens Gerke,Alexander Morse,c
+3, What is the time complexity for storing the maximum number of elements in Van Emde Boas tree if M is the maximum number of elements?,O (log M),O (M!),O (M),O (1),a
+5, What is the time complexity for searching a key or integer in Van Emde Boas data structure?,O (log M!),O (M!),O (M2),O (log (log M)),d
+6, Which type of tree does Van Emde Boas require to perform basic operations?,Unbalanced,Balanced,Complete,Non – Binary,a
+7, What is the time complexity for inserting a key or integer in Van Emde Boas data structure?,O (log M!),O (M!),O (M2),O (log (log M)),d
+8, In which year was Van Emde Boas tree invented?,1972,1973,1974,1975,b
+9, What is the time complexity for deleting a key or integer in Van Emde Boas data structure?,O (log M!),O (log (log M)),O (M!),O (M2),a
+11, What is the time complexity for finding a maximum and minimum integer in Van Emde Boas data structure?,O (log M!),O (M!),O (1),O (log (log M)),d
+12, On which abstract data type does van Emde Boas tree performs the operation?,Tree,Linked List,Heap,Associative Array,b

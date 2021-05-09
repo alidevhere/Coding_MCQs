@@ -1,0 +1,3 @@
+1, What are parallel arrays?,Arrays of the same size,Arrays allocated one after the other,Arrays of the same number of elements,Arrays allocated dynamically,a
+6, Which of the following is a disadvantage of parallel array over the traditional arrays?,"When a language does not support records, parallel arrays can be used",Increased locality of reference,Ideal cache behaviour,Insertion and Deletion becomes tedious,d
+7, Which of the following is an advantage of parallel arrays?,Poor locality of reference for non-sequential access,Very little direct language support,Expensive to shrink or grow,Increased Locality of Reference,c

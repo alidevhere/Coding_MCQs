@@ -1,0 +1,7 @@
+2," What is the possible number of binary trees that can be created with 3 nodes, giving the sequence N, M, L when traversed in post-order.",15,3,5,8, 
+3, The post-order traversal of a binary tree is O P Q R S T. Then possible pre-order traversal will be ________,T Q R S O P,T O Q R P S,T Q O P S R,T Q O S P R,d
+4," A binary search tree contains values 7, 8, 13, 26, 35, 40, 70, 75. Which one of the following is a valid post-order sequence of the tree provided the pre-order sequence as 35, 13, 7, 8, 26, 70, 40 and 75?","7, 8, 26, 13, 75, 40, 70, 35","26, 13, 7, 8, 70, 75, 40, 35","7, 8, 13, 26, 35, 40, 70, 75","8, 7, 26, 13, 40, 75, 70, 35",b
+5, Which of the following pair’s traversals on a binary tree can build the tree uniquely?,post-order and pre-order,post-order and in-order,post-order and level order,level order and preorder,a
+6, A full binary tree can be generated using ______,post-order and pre-order traversal,pre-order traversal,post-order traversal,in-order traversal,b
+7, The maximum number of nodes in a tree for which post-order and pre-order traversals may be equal is ______,3,1,2,any number,b
+9, The pre-order and in-order are traversals of a binary tree are T M L N P O Q and L M N T O P Q. Which of following is post-order traversal of the tree?,L N M O Q P T,N M O P O L T,L M N O P Q T,O P L M N Q T,b

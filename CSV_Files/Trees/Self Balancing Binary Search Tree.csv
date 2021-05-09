@@ -1,0 +1,8 @@
+1, Which of the following is not the self balancing binary search tree?,AVL Tree,2-3-4 Tree,Red – Black Tree,Splay Tree,a
+2, The binary tree sort implemented using a self – balancing binary search tree takes ______ time is worst case.,O(n log n),O(n),O(n2),O(log n),b
+3,"  An AVL tree is a self – balancing binary search tree, in which the heights of the two child sub trees of any node differ by _________",At least one,At most one,Two,At most two,d
+4, Associative arrays can be implemented using __________,B-tree,A doubly linked list,A single linked list,A self balancing binary search tree,b
+6, Which of the following is a self – balancing binary search tree?,2-3 tree,Threaded binary tree,AA tree,Treap,a
+7, A self – balancing binary search tree can be used to implement ________,Priority queue,Hash table,Heap sort,Priority queue and Heap sort,c
+8, In which of the following self – balancing binary search tree the recently accessed element can be accessed quickly?,AVL tree,AA tree,Splay tree,Red – Black tree,a
+9, The minimum height of self balancing binary search tree with n nodes is _____,log2(n),n,2n + 1,2n – 1,a

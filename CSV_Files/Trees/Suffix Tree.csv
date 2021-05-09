@@ -1,0 +1,12 @@
+1, What is the other name for Suffix Tree?,Array,Stack,Priority Queue,PAT Tree,b
+2, Which tree allows fast implementation of string operation?,Rope Tree,Suffix Tree,Tango Tree,Top Tree,d
+3, How much time does construction of suffix tree take?,O (log M),O (M!),Exponential to Length of Tree,Linear to Length of Tree,d
+4, How much space does construction of suffix tree takes?,O (log M),Exponential to Length of Tree,O (M!),Linear to Length of Tree,b
+5, Which tree provides a linear time solution for substring operation?,Rope Tree,Suffix Tree,Tango Tree,Top Tree,a
+6, Who proposed the concept of Suffix Tree?,Weiner,Samuel F. B. Morse,Friedrich Clemens Gerke,Alexander Morse,c
+7, Who among the following provided the first online contribution of Suffix Tree?,Weiner,Samuel F. B. Morse,Ukkonen,Alexander Morse,d
+8, What is the time complexity of Uttkonen’s algorithm?,O (log n!),O (n!),O (n2),O (n log n),b
+9, Who among the following provided the first suffix tree contribution for all alphabet?,Weiner,Farach,Ukkonen,Alexander Morse,b
+10, Who among the following algorithm is used in external memory and compression of the suffix tree?,Weiner’s algorithm,Farach’s algorithm,Ukkonen’s algorithm,Alexander Morse,a
+11, Which statement is correct of suffix tree with a string of length n?,The tree has n leaves.,The tree has n roots,Height of Tree is n,Depth of tree is n,b
+14, Which tree allows fast implementation of a set of string operation?,Rope Tree,Tango Tree,Generalized Suffix Tree,Top Tree,d

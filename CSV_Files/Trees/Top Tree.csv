@@ -1,0 +1,11 @@
+1, Which algorithm is used in the top tree data structure?,Divide and Conquer,Greedy,Backtracking,Branch,d
+2," For how many vertices in a set, is top tree defined for underlying tree?",3,4,5,2,a
+3, How many edges are present in path cluster?,2,3,6,1,a
+4, How many edges does a leaf cluster contain?,0,1,2,3,b
+5, How many edges are present in Edge cluster?,0,1,2,4,a
+6, Which data structure is used to maintain a dynamic forest using a link or cut operation?,Top Tree,Array,Linked List,Stack,a
+9, What is the time complexity for the initialization of top tree?,O (n),O (n2),O (log n),O (n!),a
+10, How many top trees are there in a tree with single vertex?,0,1,2,3,d
+11, Which property makes top tree a binary tree?,Nodes as Cluster,Leaves as Edges,Root is Tree Itself,All of the mentioned,d
+12, Which of the dynamic operations are used in Top Tree data structure implementation?,Link,Cut,Expose,All of the mentioned,a
+13, Which of the following are used as an internal operation in Top tree?,Merge,Cut,Expose,Link,c

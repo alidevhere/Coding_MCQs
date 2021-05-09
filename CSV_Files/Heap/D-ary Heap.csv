@@ -1,0 +1,10 @@
+1, d-heap is similar to that of a?,binary heap,fibonacci heap,leftist heap,treap,a
+3, Which operation cannot be directly performed in a d-heap?,insert,delete,find,create,d
+4, Which operation is not efficiently performed in a d-heap?,insert,delete,find,merge,c
+5, What is the run time efficiency of an insertion algorithm in d-heap?,O(N),O(log N),O(logd N),O(Nd),b
+6, How many comparisons will occur while performing a delete-min operation?,d,d-1,d+1,1,b
+7, How many basic operations can be performed in a d-heap?,1,2,3,4,c
+8, What is the run time efficiency of delete-min operation?,O(log N),O(logd N),O(d logd N),O(d),a
+9," The following figure is an example for
+",d-heap,binary heap,leftist heap,skew heap,b
+11, How many secondary operations are performed in a d-heap?,1,2,3,4,d

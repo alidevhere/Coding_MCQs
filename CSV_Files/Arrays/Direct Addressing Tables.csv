@@ -1,0 +1,6 @@
+1, What is direct addressing?,Distinct array position for every possible key,Fewer array positions than keys,Fewer keys than array positions,Distinct array positions for keys based on priority,b
+2, When is it appropriate to use direct addressing?,When the array is comparatively large,When the universe U of keys is reasonably small,When the universe U of keys is reasonably large,When the array is comparatively small,d
+3, What is the search complexity in direct addressing?,O(n),O(logn),O(nlogn),O(1),d
+4, What is the time complexity to insert an element into the direct address table?,O(n),O(logn),O(nlogn),O(1),b
+5, What is the advantage of using a dynamic set in direct addressing?,It saves time,It saves space,It saves both time and space,It reduces code complexity,d
+6, What is the time complexity to delete an element from the direct address table?,O(n),O(logn),O(nlogn),O(1),b

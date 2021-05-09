@@ -1,0 +1,8 @@
+1, Which of the following is also known as Rope data structure?,Cord,String,Array,Linked List,d
+2, Which type of data structure does rope represent?,Array,Linked List,Queue,Binary Tree,a
+3, What is the time complexity for finding the node at x position where n is the length of the rope?,O (log n),O (n!),O (n2),O (1),d
+4, What is the time complexity for creating a new node and then performing concatenation in the rope data structure?,O (log n),O (n!),O (n2),O (1),c
+5, What is the time complexity for splitting the string into two new string in the rope data structure?,O (n2),O (n!),O (log n),O (1),b
+6, Which type of binary tree does rope require to perform basic operations?,Unbalanced,Balanced,Complete,Full,a
+7, What is the time complexity for inserting the string and forming a new string in the rope data structure?,O (log n),O (n!),O (n2),O (1),a
+9, What is the time complexity for deleting the string to form a new string in the rope data structure?,O (n2),O (n!),O (log n),O (1),a

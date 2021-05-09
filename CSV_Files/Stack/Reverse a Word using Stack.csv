@@ -1,0 +1,7 @@
+2, Which is the most appropriate data structure for reversing a word?,queue,stack,tree,graph,a
+4, What is the time complexity of reversing a word using stack algorithm?,O (N log N),O (N2),O (N),O (M log N),c
+5, What will be the word obtained if the word “abbcabb” is reversed using a stack?,bbabbca,abbcabb,bbacbba,bbacabb,a
+6, How many stacks are required for reversing a word algorithm?,one,two,three,four,b
+7," What will be result if the given stack is popped?
+",pat,tap,atp,apt,b
+11, How will your stack look like if the word ‘java’ is pushed?,,,,,c

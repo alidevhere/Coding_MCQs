@@ -1,0 +1,12 @@
+1, Which technique is used for finding similarity between two sets?,MinHash,Stack,Priority Queue,PAT Tree,d
+2, Who invented the MinHash technique?,Weiner,Samuel F. B. Morse,Friedrich Clemens Gerke,Andrei Broder,a
+3, Which technique was firstly used to remove duplicate web pages from search results in AltaVista search engine?,MinHash,Stack,Priority Queue,PAT Tree,a
+4, Which technique was firstly used clustering documents using the similarity of two words or strings?,MinHash,Stack,Priority Queue,PAT Tree,b
+5, Which indicator is used for similarity between two sets?,Rope Tree,Jaccard Coefficient,Tango Tree,MinHash Coefficient,b
+6, Which of the following is defined as the ratio of total elements of intersection and union of two sets?,Rope Tree,Jaccard Coefficient Index,Tango Tree,MinHash Coefficient,d
+7, What is the value of the Jaccard index when the two sets are disjoint?,1,2,3,0,a
+8, When are the members of two sets more common relatively?,Jaccard Index is Closer to 1,Jaccard Index is Closer to 0,Jaccard Index is Closer to -1,Jaccard Index is Farther to 1,d
+9, What is the expected error for estimating the Jaccard index using MinHash scheme for k different hash functions?,O (log k!),O (k!),O (k2),O (1/k½),d
+10, How many hashes will be needed for calculating Jaccard index with an expected error less than or equal to 0.05?,100,200,300,400,d
+11, What is the expected error by the estimator Chernoff bound on the samples performed without replacement?,O (log k!),O (k!),O (k2),O (1/k½),d
+12, What is the time required for single variant hashing to maintain the minimum hash queue?,O (log n!),O (n!),O (n2),O (n),d

@@ -1,0 +1,28 @@
+1," What is the smallest element of the given minimum ternary heap?
+",1,10,18,20,a
+2," What is the highest element of the given maximum ternary heap?
+",31,10,18,20,b
+3," What is the child of smallest element of the given minimum ternary heap?
+",1,10,22,24,c
+4," What are the siblings of smallest element of the given maximum ternary heap?
+",31,12,18,22,a
+5," What is the height of a given minimum ternary heap?
+",1,10,2,24,a
+6," What is the ancestor of the leaf node in a given minimum ternary heap?
+",1,10,18,20,d
+7, Which property should ternary heap hold for execution?,Associative,Commutative,Tree,Heap,a
+9, What is the process of building a ternary heap called?,Heapify,Hashing,Linking,Merging,c
+10, Which type of data structure is a ternary heap?,Array,Hash,Priority Queue,Priority Stack,a
+12, What is a ternary heap?,An array with three elements,Linked list with three elements,Tree with three children,Heap with all nodes having three children,c
+1, How many extra nodes are there in Full ternary tree than a complete ternary tree?,1,2,3,Both have same number of nodes,b
+1, What is the time complexity for inserting a new item in a ternary heap of n elements?,O (log n/ log 3),O (n!),O (n),O (1),a
+3, What is the time complexity for decreasing priority of key in a minimum ternary heap of n elements?,O (log n/ log 3),O (n!),O (n),O (1),a
+4, What is the time complexity for increasing priority of key in a maximum ternary heap of n elements?,O (log n/ log 3),O (n!),O (n),O (1),b
+5, What is the time complexity for deleting root key in a ternary heap of n elements?,O (log n/ log 3),O (3log n/ log 3),O (n),O (1),b
+6, What is the time complexity for increasing priority of key in a minimum ternary heap of n elements?,O (log n/ log 3),O (3log n/ log 3),O (n),O (1),b
+7, What is the time complexity for decreasing priority of key in a maximum ternary heap of n elements?,O (log n/ log 3),O (3log n/ log 3),O (n),O (1),a
+9, What is the time complexity for creating a ternary heap using swapping?,O (log n/ log 3),O (n!),O (n),O (1),a
+1, How many child nodes does each node of Ternary Tree contain?,4,6,5,3,d
+2, Which of the following is the name of the node having child nodes?,Brother,Sister,Mother,Parent,c
+3, What is the depth of the root node of the ternary tree?,2,1,0,3,d
+4, What is the Height of the root node of ternary tree?,1,2,3,0,a

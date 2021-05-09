@@ -1,0 +1,9 @@
+1, What is the use of the bin data structure?,to have efficient insertion,to have efficient deletion,to have efficient region query,to have efficient traversal,a
+3, What is the worst case time complexity of query operation(n is the no. of candidates)?,O(1),O(n),O(log n),O(n log n),b
+4, What is the worst case time complexity of delete operation(n is the no. of candidates)?,O(1),O(n),O(log n),O(n log n),a
+5, What is the worst case time complexity of insertion operation(n =no. of candidates)?,O(1),O(n),O(log n),O(n log n),d
+6, What is computational geometry?,study of geometry using a computer,study of geometry,study of algorithms,study of algorithms related to geometry,b
+7, What will be the time complexity of query operation if all the candidates are evenly spaced so that each bin has constant no. of candidates? (k = number of bins query rectangle intersects),O(1),O(k),O(k2),O(log k),b
+8, What will be the time complexity of delete operation if all the candidates are evenly spaced so that each bin has constant no. of candidates? (m = number of bins intersecting candidate intersects),O(1),O(m),O(m2),O(log m),b
+9, What will be the time complexity of insertion operation if all the candidates are evenly spaced so that each bin has constant no. of candidates? (m = number of bins intersecting candidate intersects),O(1),O(m),O(m2),O(log m),c
+10, Efficiency of bin depends upon ___________,size of query and candidates,location of query and candidates,location and size of query and candidates,depends on the input,b

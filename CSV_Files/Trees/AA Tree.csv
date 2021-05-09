@@ -1,0 +1,17 @@
+1, AA Trees are implemented using?,Colors,Levels,Node size,Heaps,a
+2, Which of the following is the correct definition for a horizontal link?,connection between node and a child of equal levels,connection between two nodes,connection between two child nodes,connection between root node and leaf node,a
+3, How will you remove a left horizontal link in an AA-tree?,by performing right rotation,by performing left rotation,by deleting both the elements,by inserting a new element,b
+4, What are the two different operations done in an AA-Tree?,shift and color,skew and split,zig and zag,enqueue and dequeue,b
+6, How many different shapes does maintenance of AA-Tree need to consider?,7,5,2,3,a
+7, What is the prime condition of AA-tree which makes it simpler than a red-black tree?,Only right children can be red,Only left children can be red,Right children should strictly be black,There should be no left children,d
+8, Which of the following trees is similar to that of an AA-Tree?,Splay Tree,B+ Tree,AVL Tree,Red-Black Tree,b
+9, What is the worst case analysis of an AA-Tree?,O(N),O(log N),O( N log N),O(N2),a
+11, Who is the inventor of AA-Tree?,Arne Anderson,Daniel Sleator,Rudolf Bayer,Jon Louis Bentley,c
+12, What should be the condition for the level of a left node?,It should be less than or equal to that of its parent,It should be greater than that of its parent,It should be strictly less than that of its parent,The level should be equal to one,d
+13," Of the following rules that are followed by an AA-tree, which of the following is incorrect?
+1- Only right children can be red
+2- Procedures are coded recursively
+3- Instead of storing colors, the level of a node is stored
+4- There should not be any left children",1,2,3,4,b
+14," In the given figure, find ‘?’.
+",left rotation,right rotation,insertion,deletion,a

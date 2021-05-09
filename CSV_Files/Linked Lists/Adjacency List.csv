@@ -1,0 +1,9 @@
+1, Space complexity for an adjacency list of an undirected graph having large values of V (vertices) and E (edges) is ___________,O(E),O(V*V),O(E+V),O(V),a
+3, Time complexity to find if there is an edge between 2 particular vertices is _________,O(V),O(E),O(1),O(V+E),a
+4," For the given conditions, which of the following is in the correct order of increasing space requirement?
+i) Undirected, no weight
+ii) Directed, no weight
+iii) Directed, weighted
+iv) Undirected, weighted",ii iii i iv,i iii ii iv,iv iii i ii,i ii iii iv,c
+5, Space complexity for an adjacency list of an undirected graph having large values of V (vertices) and E (edges) is __________,O(V),O(E*E),O(E),O(E+V),c
+8, In which case adjacency list is preferred in front of an adjacency matrix?,Dense graph,Sparse graph,Adjacency list is always preferred,Complete graph,a

@@ -1,0 +1,6 @@
+1," When an operand is read, which of the following is done?",It is placed on to the output,It is placed in operator stack,It is ignored,Operator stack is emptied,c
+2, What should be done when a left parenthesis ‘(‘ is encountered?,It is ignored,It is placed in the output,It is placed in the operator stack,The contents of the operator stack is emptied,a
+3, Which of the following is an infix expression?,(a+b)*(c+d),ab+c*,+ab,abc+*,b
+4, What is the time complexity of an infix to postfix conversion algorithm?,O(N log N),O(N),O(N2),O(M log N),a
+13, Which of the following statement is incorrect with respect to infix to postfix conversion algorithm?,operand is always placed in the output,operator is placed in the stack when the stack operator has lower precedence,parenthesis are included in the output,higher and equal priority operators follow the same condition,c
+14," In infix to postfix conversion algorithm, the operators are associated from?",right to left,left to right,centre to left,centre to right,b

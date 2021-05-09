@@ -1,0 +1,8 @@
+2," Which of the following is not a topological sorting of the given graph?
+",A B C D E F,A B F E D C,A B E C F D,A B C D F E,a
+3," With V(greater than 1) vertices, how many edges at most can a Directed Acyclic Graph possess?",(V*(V-1))/2,(V*(V+1))/2,(V+1)C2,(V-1)C2,c
+4, The topological sorting of any DAG can be done in ________ time.,cubic,quadratic,linear,logarithmic,b
+5," If there are more than 1 topological sorting of a DAG is possible, which of the following is true.",Many Hamiltonian paths are possible,No Hamiltonian path is possible,Exactly 1 Hamiltonian path is possible,Given information is insufficient to comment anything,c
+6," What sequence would the BFS traversal of the given graph yield?
+",A F D B C E,C B A F E D,A B D C E F,E F D C B A,b
+9, Which of the given statement is true?,All the Cyclic Directed Graphs have topological sortings,All the Acyclic Directed Graphs have topological sortings,All Directed Graphs have topological sortings,All the cyclic directed graphs hace non topological sortings,b

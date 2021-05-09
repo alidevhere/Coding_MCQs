@@ -1,0 +1,6 @@
+1, Descending priority queue can be implemented using ______,max heap,min heap,min-max heap,trie,a
+3, Which of the following is the valid min heap?,,,,,a
+6, The ascending heap property is ___________,A[Parent(i)] =A[i] ,A[Parent(i)] <= A[i] ,A[Parent(i)] >= A[i] ,A[Parent(i)] > 2 * A[i] ,b
+7, The procedure FindMin() to find the minimum element and the procedure DeleteMin() to delete the minimum element in min heap take _________,logarithmic and linear time constant respectively,constant and linear time respectively,constant and quadratic time respectively,constant and logarithmic time respectively,a
+8, Which one of the following array elements represents a binary min heap?,12 10 8 25 14 17,8 10 12 25 14 17,25 17 14 12 10 8,14 17 25 10 12 8,a
+9," In a binary min heap containing n elements, the largest element can be found in __________ time.",O(n),O(nlogn),O(logn),O(1),b

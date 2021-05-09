@@ -1,0 +1,11 @@
+1, What will be the height of a balanced full binary tree with 8 leaves?,8,5,6,4,c
+2, The balance factor of a node in a binary tree is defined as _____,addition of heights of left and right subtrees,height of right subtree minus height of left subtree,height of left subtree minus height of right subtree,height of right subtree minus one,b
+3," Figure below is a balanced binary tree. If a node inserted as child of the node R, how many nodes will become unbalanced?
+",2,1,3,0,a
+4, A binary tree is balanced if the difference between left and right subtree of every node is not more than ____,1,3,2,0,d
+5, Which of the following tree data structures is not a balanced binary tree?,AVL tree,Red-black tree,Splay tree,B-tree,b
+6, Which of following figures is a balanced binary tree?,,,,,a
+7, Balanced binary tree with n items allows the lookup of an item in ____ worst-case time.,O(log n),O(nlog 2),O(n),O(1),d
+8, Which of the following data structures can be efficiently implemented using height balanced binary search tree?,sets,priority queue,heap,both sets and priority queue,a
+9, Two balanced binary trees are given with m and n elements respectively. They can be merged into a balanced binary search tree in ____ time.,O(m+n),O(mn),O(m),O(mlog n),a
+10," Which of the following is an advantage of balanced binary search tree, like AVL tree, compared to binary heap?",insertion takes less time,deletion takes less time,searching takes less time,construction of the tree takes less time than binary heap,a

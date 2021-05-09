@@ -1,0 +1,12 @@
+1, What is a dynamic array?,A variable size data structure,An array which is created at runtime,The memory to the array is allocated at runtime,An array which is reallocated everytime whenever new elements have to be added,c
+2, What is meant by physical size in a dynamic array?,The size allocated to elements,The size extended to add new elements,The size of the underlying array at the back-end,The size visible to users,c
+3, The number of items used by the dynamic array contents is its __________,Physical size,Capacity,Logical size,Random size,d
+4, How will you implement dynamic arrays in Java?,Set,Map,HashMap,List,a
+5, Which of the following is the correct syntax to declare an ArrayList in Java?,ArrayList al = new ArrayList();,ArrayList al = new ArrayList[];,ArrayList al() = new ArrayList();,ArrayList al[] = new ArrayList[];,c
+6, Array is divided into two parts in ____________,Hashed Array Tree,Geometric Array,Bounded-size dynamic array,Sparse Array,d
+7, Which of the following is a disadvantage of dynamic arrays?,Locality of reference,Data cache utilization,Random access,Memory leak,b
+8, What is the time complexity for inserting/deleting at the beginning of the array?,O(1),O(n),O(logn),O(nlogn),a
+10, The size of the dynamic array is deallocated if the array size is less than _________% of the backend physical size.,30,40,10,20,b
+12, In which of the following cases dynamic arrays are not preferred?,If the size of the array is unknown,If the size of the array changes after few iterations,If the memory reallocation takes more time i.e. expensive,If the array holds less number of elements,b
+13, The growth factor of ArrayList in Java is _______,1,1.5,2,0,a
+14," In special case, the time complexity of inserting/deleting elements at the end of dynamic array is __________",O (n),O (n1/2),O (log n),O (1),b

@@ -1,0 +1,5 @@
+1, How many stacks are required for evaluation of prefix expression?,one,two,three,four,b
+2," While evaluating a prefix expression, the string is read from?",left to right,right to left,center to right,center to left to right,a
+4, How many types of input characters are accepted by this algorithm?,one,two,three,four,a
+5, What determines the order of evaluation of a prefix expression?,precedence and associativity,precedence only,associativity only,depends on the parser,a
+9," Using the evaluation of prefix algorithm, evaluate +-9 2 7.",10,4,17,14,c

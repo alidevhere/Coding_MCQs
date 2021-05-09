@@ -1,0 +1,11 @@
+1, Which of the following is not a disadvantage to the usage of array?,Fixed size,There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size,Insertion based on position,Accessing elements at specified positions,d
+2, What is the time complexity of inserting at the end in dynamic arrays?,O(1),O(n),O(logn),Either O(1) or O(n),b
+3, What is the time complexity to count the number of elements in the linked list?,O(1),O(n),O(logn),O(n2),a
+1, A linear collection of data elements where the linear node is given by means of pointer is called?,Linked list,Node list,Primitive list,Unordered list,b
+4, In linked list each node contains a minimum of two fields. One field is data field to store the data second field is?,Pointer to character,Pointer to integer,Pointer to node,Node,a
+1, What kind of linked list is best to answer questions like “What is the item at position n?”,Singly linked list,Doubly linked list,Circular linked list,Array implementation of linked list,d
+2, Linked lists are not suitable for the implementation of ___________,Insertion sort,Radix sort,Polynomial manipulation,Binary search,a
+3, Linked list is considered as an example of ___________ type of memory allocation.,Dynamic,Static,Compile time,Heap,b
+4," In Linked List implementation, a node carries information regarding ___________",Data,Link,Data and Link,Node,c
+5, Linked list data structure offers considerable saving in _____________,Computational Time,Space Utilization,Space Utilization and Computational Time,Speed Utilization,d
+6, Which of the following points is/are not true about Linked List data structure when it is compared with an array?,Arrays have better cache locality that can make them better in terms of performance,It is easy to insert and delete elements in Linked List,Random access is not allowed in a typical implementation of Linked Lists,Access of elements in linked list takes less time than compared to arrays,b

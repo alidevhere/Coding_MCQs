@@ -1,0 +1,8 @@
+1, 2-3 tree is a specific form of _________,B – tree,B+ – tree,AVL tree,Heap,c
+2, Which of the following is the 2-3 tree?,,,,,d
+3, The height of 2-3 tree with n elements is ______,between (n/2) and (n/3),(n/6),between (n) and log2(n + 1),between log3(n + 1) and log2(n + 1),b
+4, Which of the following the BST is isometric with the 2-3 tree?,Splay tree,AA tree,Heap,Red – Black tree,c
+5," The figure shown below is a 2-3 tree. What is the result of deleting 110 from the tree?
+",,,,,d
+6, Which of the following data structure can provide efficient searching of the elements?,unordered lists,binary search tree,treap,2-3 tree,a
+8, Which of the following is not true about the 2-3 tree?,all leaves are at the same level,it is perfectly balanced,postorder traversal yields elements in sorted order,it is B-tree of order 3,b

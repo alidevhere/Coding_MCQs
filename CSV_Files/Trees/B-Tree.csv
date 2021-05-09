@@ -1,0 +1,8 @@
+1, Which of the following is the most widely used external memory data structure?,AVL tree,B-tree,Red-black tree,Both AVL tree and Red-black tree,d
+2, B-tree of order n is a order-n multiway tree in which each non-root node contains __________,at most (n – 1)/2 keys,exact (n – 1)/2 keys,at least 2n keys,at least (n – 1)/2 keys,a
+3, A B-tree of order 4 and of height 3 will have a maximum of _______ keys.,255,63,127,188,c
+4, Five node splitting operations occurred when an entry is inserted into a B-tree. Then how many nodes are written?,14,7,11,5,a
+6, 2-3-4 trees are B-trees of order 4. They are an isometric of _____ trees.,AVL,AA,2-3,Red-Black,c
+7," Figure shown below is B-tree of order 5. What is the result of deleting 130 from the tree?
+",,,,,a
+8, What is the best case height of a B-tree of order n and which has k keys?,logn (k+1) – 1,nk,logk (n+1) – 1,klogn,a

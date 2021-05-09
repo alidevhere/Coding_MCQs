@@ -1,0 +1,1 @@
+{"0": {"statement": " \"options\": {\"a\": \"queue\"", "options": {"a": " \"b\": \"stack\"", "b": " \"c\": \"tree\"", "c": " \"d\": \"graph\"}", "d": " \"ans\": \"a\"}"}, "ans": " \"1\": {\"statement\": \" What is the time complexity of reversing a word using stack algorithm?\""}}

@@ -1,0 +1,7 @@
+2, A graph having an edge from each vertex to every other vertex is called a ___________,Tightly Connected,Strongly Connected,Weakly Connected,Loosely Connected,b
+3, What is the number of unlabeled simple directed graph that can be made with 1 or 2 vertices?,2,4,5,9,b
+4, Floyd Warshall Algorithm used to solve the shortest path problem has a time complexity of __________,O(V*V),O(V*V*V),O(E*V),O(E*E),b
+6," Assuming value of every weight to be greater than 10, in which of the following cases the shortest path of a directed weighted graph from 2 vertices u and v will never change?",add all values by 10,subtract 10 from all the values,multiply all values by 10,in both the cases of multiplying and adding by 10,d
+7, What is the maximum possible number of edges in a directed graph with no self loops having 8 vertices?,28,64,256,56,a
+8," What would be the DFS traversal of the given Graph?
+",ABCED,AEDCB,EDCBA,ADECB,b

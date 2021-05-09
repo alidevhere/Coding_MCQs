@@ -1,0 +1,12 @@
+1, How many properties will an equivalent relationship satisfy?,1,2,3,4,b
+2," A relation R on a set S, defined as x R y if and only if y R x. This is an example of?",reflexive relation,symmetric relation,transitive relation,invalid relation,a
+4, What is the worst case efficiency for a path compression algorithm?,O(N),O(log N),O(N log N),O(M log N),c
+5, Path Compression algorithm performs in which of the following operations?,Create operation,Insert operation,Find operation,Delete operation,a
+6, What is the definition for Ackermann’s function?,"A(1,i) = i+1 for i>=1","A(i,j) = i+j for i>=j","A(i,j) = i+j for i = j","A(1,i) = i+1 for i<1",d
+7," ___________ is one of the earliest forms of a self-adjustment strategy used in splay trees, skew heaps.",Union by rank,Equivalence function,Dynamic function,Path compression,b
+8, What is the depth of any tree if the union operation is performed by height?,O(N),O(log N),O(N log N),O(M log N),a
+10, What is the value for the number of nodes of rank r?,N,N/2,N/2r,Nr,d
+11, What is the worst-case running time of unions done by size and path compression?,O(N),O(logN),O(N logN),O(M logN),a
+12," In the Union/Find algorithm, the ranks of the nodes on a path will increase monotonically from?",leaf to root,root to node,root to leaf,left subtree to right subtree,b
+13, How many strategies are followed to solve a dynamic equivalence problem?,1,2,3,4,c
+14, What is the total time spent for N-1 merges in a dynamic equivalence problem?,O(N),O(log N),O(N log N),O(M log N),b

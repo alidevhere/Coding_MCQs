@@ -1,0 +1,28 @@
+1, Which of the following is false about a binary search tree?,The left child is always lesser than its parent,The right child is always greater than its parent,The left and right sub-trees should also be binary search trees,In order sequence gives decreasing order of elements,a
+6, What is the speciality about the inorder traversal of a binary search tree?,It traverses in a non increasing order,It traverses in an increasing order,It traverses in a random fashion,It traverses based on priority of the node,c
+1, What is the maximum number of children that a binary tree node can have?,0,1,2,3,a
+4, How many common operations are performed in a binary tree?,1,2,3,4,b
+5, What is the traversal strategy used in the binary tree?,depth-first traversal,breadth-first traversal,random traversal,Priority traversal,b
+6, How many types of insertion are performed in a binary tree?,1,2,3,4,c
+9, How many bits would a succinct binary tree occupy?,n+O(n),2n+O(n),n/2,n,d
+1, The number of edges from the root to the node is called __________ of the tree.,Height,Depth,Length,Width,a
+2, The number of edges from the node to the deepest leaf is called _________ of the tree.,Height,Depth,Length,Width,a
+3, What is a full binary tree?,Each node has exactly zero or two children,Each node has exactly two children,All the leaves are at the same level,Each node has exactly one or two children,c
+4, What is a complete binary tree?,Each node has exactly zero or two children,"A binary tree, which is completely filled, with the possible exception of the bottom level, which is filled from right to left","A binary tree, which is completely filled, with the possible exception of the bottom level, which is filled from left to right",A tree In which all nodes have degree 2,d
+5, What is the average case time complexity for finding the height of the binary tree?,h = O(loglogn),h = O(nlogn),h = O(n),h = O(log n),d
+6, Which of the following is not an advantage of trees?,Hierarchical structure,Faster search,Router algorithms,Undo/Redo operations in a notepad,b
+7," In a full binary tree if number of internal nodes is I, then number of leaves L are?",L = 2*I,L = I + 1,L = I – 1,L = 2*I – 1,d
+8," In a full binary tree if number of internal nodes is I, then number of nodes N are?",N = 2*I,N = I + 1,N = I – 1,N = 2*I + 1,d
+9," In a full binary tree if there are L leaves, then total number of nodes N are?",N = 2*L,N = L + 1,N = L – 1,N = 2*L – 1,d
+1, How many children does a binary tree have?,2,any number of children,0 or 1 or 2,0 or 1,c
+2, What is/are the disadvantages of implementing tree using normal arrays?,difficulty in knowing children nodes of a node,difficult in finding the parent of a node,have to know the maximum number of nodes possible before creation of trees,difficult to implement,a
+3, What must be the ideal size of array if the height of tree is ‘l’?,2l-1,l-1,l,2l,a
+4, What are the children for node ‘w’ of a complete-binary tree in an array representation?,2w and 2w+1,2+w and 2-w,w+1/2 and w/2,w-1/2 and w+1/2,a
+5, What is the parent for a node ‘w’ of a complete binary tree in an array representation when w is not 0?,floor(w-1/2),ceil(w-1/2),w-1/2,w/2,a
+6, If the tree is not a complete binary tree then what changes can be made for easy access of children of a node in the array?,every node stores data saying which of its children exist in the array,"no need of any changes continue with 2w and 2w+1, if node is at i",keep a seperate table telling children of a node,use another array parallel to the array with tree,a
+1, Advantages of linked list representation of binary trees over arrays?,dynamic size,ease of insertion/deletion,ease in randomly accessing a node,both dynamic size and ease in insertion/deletion,d
+2, Disadvantages of linked list representation of binary trees over arrays?,Randomly accessing is not possible,Extra memory for a pointer is needed with every element in the list,Difficulty in deletion,Random access is not possible and extra memory with every element,d
+3, Which of the following traversing algorithm is not used to traverse in a tree?,Post order,Pre order,Post order,Randomized,a
+4, Level order traversal of a tree is formed with the help of,breadth first search,depth first search,dijkstra’s algorithm,prims algorithm,d
+5, Identify the reason which doesn’t play a key role to use threaded binary trees?,The storage required by stack and queue is more,The pointers in most of nodes of a binary tree are NULL,It is Difficult to find a successor node,They occupy less size,d
+7, What may be the psuedo code for finding the size of a tree?,find_size(root_node–>left_node) + 1 + find_size(root_node–>right_node),find_size(root_node–>left_node) + find_size(root_node–>right_node),find_size(root_node–>right_node) – 1,find_size(root_node–>left_node + 1,a

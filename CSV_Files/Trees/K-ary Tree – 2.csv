@@ -1,0 +1,14 @@
+1," What is the size of the given K-ary tree?
+",3,2,6,4,a
+2," Who is the ancestor of Node H?
+",D,F,H,A,d
+3," Who is descendant of Node C?
+",A,E,D,G,a
+4," What is the size of Node B in given K-ary tree?
+",1,2,3,4,a
+7, What is the upper bound for maximum leaves in K-ary tree with height h?,K*h,K^h,K+h,K-h,b
+8, What is the height of a K-ary tree having only root node?,1,0,2,3,a
+9, Which one of the following is the correct formulae to find the parent node at index I?,(I-1)/K,(I+1)/K,(I*1)/K,(I-2)/K,d
+10," Which nodes are the siblings of Node D of given ternary tree?
+",E,C,F,H,d
+11, How many extra nodes are there in Full K-ary tree than complete K-ary tree?,1,2,3,Both have same number of nodes,b

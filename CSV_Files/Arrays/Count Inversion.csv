@@ -1,0 +1,7 @@
+1, What does the number of inversions in an array indicate?,mean value of the elements of array,measure of how close or far the array is from being sorted,the distribution of values in the array,median value of the elements of array,a
+2, How many inversions does a sorted array have?,0,1,2,cannot be determined,d
+3, What is the condition for two elements arr[i] and arr[j] to form an inversion?,arr[i]<arr[j] ,i < j,arr[i] < arr[j] and i < j,arr[i] > arr[j] and i < j,b
+4, Under what condition the number of inversions in an array are maximum?,when the array is sorted,when the array is reverse sorted,when the array is half sorted,depends on the given array,a
+5, Under what condition the number of inversions in an array are minimum?,when the array is sorted,when the array is reverse sorted,when the array is half sorted,depends on the given array,d
+6," How many inversions are there in the array arr = {1,5,4,2,3}?",0,3,4,5,b
+7," Which of the following form inversion in the array arr = {1,5,4,2}?","(5,4), (5,2)","(5,4), (5,2), (4,2)","(1,5), (1,4), (1,2)","(1,5)",b
