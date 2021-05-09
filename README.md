@@ -11,37 +11,23 @@ You can download these mcqs either in .JSON or .CSV files. There are currently o
 
 
 # Topics:
---------- CSV_Files
------------- Algorithms
---------------- Balanced Parenthesis.csv
---------------- Balanced Parenthesis.json
---------------- Towers of Hanoi.csv
---------------- Towers of Hanoi.json
---------------- Treap.csv
---------------- Treap.json
------------- Arrays
---------------- Array and Array Operations.csv
---------------- Array and Array Operations.json
---------------- Bit Array.csv
---------------- Bit Array.json
+* CSV_Files
+  - Algorithms
+    - Balanced Parenthesis
+    - Towers of Hanoi
+    - Treap.csv
+  - Arrays
+    - Array and Array Operations
+    - Bit Array
 --------------- Count Inversion.csv
---------------- Count Inversion.json
 --------------- Direct Addressing Tables.csv
---------------- Direct Addressing Tables.json
 --------------- Dynamic Array.csv
---------------- Dynamic Array.json
 --------------- Number of Jumps to Reach End-array Operation.csv
---------------- Number of Jumps to Reach End-array Operation.json
 --------------- Parallel Array.csv
---------------- Parallel Array.json
---------------- Reversal Array Operation.csv
 --------------- Reversal Array Operation.json
 --------------- Rotation Array Operation.csv
---------------- Rotation Array Operation.json
 --------------- Sparse Array.csv
---------------- Sparse Array.json
 --------------- Suffix Array.csv
---------------- Suffix Array.json
 ------------ Graphs
 --------------- Binary Decision Diagrams & and Inverter Graph.csv
 --------------- Binary Decision Diagrams & and Inverter Graph.json
