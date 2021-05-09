@@ -1,0 +1,181 @@
+--------- CSV_Files
+------------ Algorithms
+--------------- Balanced Parenthesis.csv
+--------------- Balanced Parenthesis.json
+--------------- Towers of Hanoi.csv
+--------------- Towers of Hanoi.json
+--------------- Treap.csv
+--------------- Treap.json
+------------ Arrays
+--------------- Array and Array Operations.csv
+--------------- Array and Array Operations.json
+--------------- Bit Array.csv
+--------------- Bit Array.json
+--------------- Count Inversion.csv
+--------------- Count Inversion.json
+--------------- Direct Addressing Tables.csv
+--------------- Direct Addressing Tables.json
+--------------- Dynamic Array.csv
+--------------- Dynamic Array.json
+--------------- Number of Jumps to Reach End-array Operation.csv
+--------------- Number of Jumps to Reach End-array Operation.json
+--------------- Parallel Array.csv
+--------------- Parallel Array.json
+--------------- Reversal Array Operation.csv
+--------------- Reversal Array Operation.json
+--------------- Rotation Array Operation.csv
+--------------- Rotation Array Operation.json
+--------------- Sparse Array.csv
+--------------- Sparse Array.json
+--------------- Suffix Array.csv
+--------------- Suffix Array.json
+------------ Graphs
+--------------- Binary Decision Diagrams & and Inverter Graph.csv
+--------------- Binary Decision Diagrams & and Inverter Graph.json
+--------------- Directed Acyclic Graph.csv
+--------------- Directed Acyclic Graph.json
+--------------- Directed Graph.csv
+--------------- Directed Graph.json
+--------------- Graph.csv
+--------------- Graph.json
+--------------- Multigraph and Hypergraph.csv
+--------------- Multigraph and Hypergraph.json
+--------------- Propositional and Directed Acyclic Word Graph.csv
+--------------- Propositional and Directed Acyclic Word Graph.json
+--------------- Undirected Graph.csv
+--------------- Undirected Graph.json
+------------ Hash Table
+--------------- Hash Tables.csv
+--------------- Hash Tables.json
+--------------- Min Hash.csv
+--------------- Min Hash.json
+------------ Heap
+--------------- Binomial and Fibonacci Heap.csv
+--------------- Binomial and Fibonacci Heap.json
+--------------- D-ary Heap.csv
+--------------- D-ary Heap.json
+--------------- Heap.csv
+--------------- Heap.json
+--------------- Leftlist Heap.csv
+--------------- Leftlist Heap.json
+--------------- Min-Max Heap.csv
+--------------- Min-Max Heap.json
+--------------- Pairing Heap.csv
+--------------- Pairing Heap.json
+--------------- Skew Heap.csv
+--------------- Skew Heap.json
+--------------- Weak Heap.csv
+--------------- Weak Heap.json
+------------ Linked Lists
+--------------- Adjacency List.csv
+--------------- Adjacency List.json
+--------------- Circular Linked Lists.csv
+--------------- Circular Linked Lists.json
+--------------- Doubly Linked Lists.csv
+--------------- Doubly Linked Lists.json
+--------------- Free List.csv
+--------------- Free List.json
+--------------- Self Organizing List.csv
+--------------- Self Organizing List.json
+--------------- Singly Linked Lists.csv
+--------------- Singly Linked Lists.json
+--------------- Skip List.csv
+--------------- Skip List.json
+--------------- Xor Linked List.csv
+--------------- Xor Linked List.json
+------------ Matrix
+--------------- Adjacency Matrix.csv
+--------------- Adjacency Matrix.json
+--------------- Matrix.csv
+--------------- Matrix.json
+--------------- Sparse Matrix.csv
+--------------- Sparse Matrix.json
+------------ Queue
+--------------- Double Ended Queue (Dequeue).csv
+--------------- Double Ended Queue (Dequeue).json
+--------------- Priority Queue.csv
+--------------- Priority Queue.json
+--------------- Queue.csv
+--------------- Queue.json
+------------ Special Data Structures
+--------------- Bin.csv
+--------------- Bin.json
+--------------- Disjoint-Set Data Structure.csv
+--------------- Disjoint-Set Data Structure.json
+--------------- Rope.csv
+--------------- Rope.json
+--------------- Van Emde Boas Tree.csv
+--------------- Van Emde Boas Tree.json
+------------ Stack
+--------------- Reverse a Word using Stack.csv
+--------------- Reverse a Word using Stack.json
+--------------- Stack Operations.csv
+--------------- Stack Operations.json
+------------ Trees
+--------------- 2-3 Tree.csv
+--------------- 2-3 Tree.json
+--------------- AA Tree.csv
+--------------- AA Tree.json
+--------------- AVL Tree.csv
+--------------- AVL Tree.json
+--------------- B+ Tree.csv
+--------------- B+ Tree.json
+--------------- B-Tree.csv
+--------------- B-Tree.json
+--------------- Balanced Binary Tree.csv
+--------------- Balanced Binary Tree.json
+--------------- Binary Heap.csv
+--------------- Binary Heap.json
+--------------- Binary Search Tree.csv
+--------------- Binary Search Tree.json
+--------------- Cartesian Tree.csv
+--------------- Cartesian Tree.json
+--------------- Expression Tree.csv
+--------------- Expression Tree.json
+--------------- K-ary Tree – 1.csv
+--------------- K-ary Tree – 1.json
+--------------- K-ary Tree – 2.csv
+--------------- K-ary Tree – 2.json
+--------------- KD Tree.csv
+--------------- KD Tree.json
+--------------- Randomized Binary Search Tree.csv
+--------------- Randomized Binary Search Tree.json
+--------------- Red Black Tree.csv
+--------------- Red Black Tree.json
+--------------- Self Balancing Binary Search Tree.csv
+--------------- Self Balancing Binary Search Tree.json
+--------------- Splay Tree.csv
+--------------- Splay Tree.json
+--------------- Suffix Tree.csv
+--------------- Suffix Tree.json
+--------------- Tango Tree.csv
+--------------- Tango Tree.json
+--------------- Ternary Heap and Tree.csv
+--------------- Ternary Heap and Tree.json
+--------------- Threaded Binary Tree.csv
+--------------- Threaded Binary Tree.json
+--------------- Top Tree.csv
+--------------- Top Tree.json
+--------------- Trie.csv
+--------------- Trie.json
+--------------- Weight Balanced Tree.csv
+--------------- Weight Balanced Tree.json
+--------------- Tree Traversals
+------------------ Evaluation of a Postfix Expression.csv
+------------------ Evaluation of a Postfix Expression.json
+------------------ Evaluation of a Prefix Expression.csv
+------------------ Evaluation of a Prefix Expression.json
+------------------ Evaluation of an Infix Expression (Not Parenthesized).csv
+------------------ Evaluation of an Infix Expression (Not Parenthesized).json
+------------------ Infix to Postfix Conversion.csv
+------------------ Infix to Postfix Conversion.json
+------------------ Infix to Prefix Conversion.csv
+------------------ Infix to Prefix Conversion.json
+------------------ Inorder Traversal.csv
+------------------ Inorder Traversal.json
+------------------ Postfix to Infix Conversion.csv
+------------------ Postfix to Infix Conversion.json
+------------------ Postorder Traversal.csv
+------------------ Postorder Traversal.json
+------------------ Preorder Traversal.csv
+------------------ Preorder Traversal.json
