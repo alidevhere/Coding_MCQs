@@ -4,10 +4,48 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=programmingLover12.Coding_MCQs)
 
 # Why ?
-While doing project i encoutered a problem that there is no online API or database resource availble for coding test mcqs. So i had to scrap these mcqs my self. To save other from this hustle i am open sourcing these mcqs.
+While doing project i encoutered a problem that there is no online API or database resource availble for coding test mcqs. So i had to scrap these mcqs myself.All Mcqs are scrapped from sanfoundary website.
 
 ## About Respository
-You can download these mcqs either in .JSON or .CSV files. There are currently over 800 MCQS. More will be added soon. All MCQs are scrapped from websites.
+You can download these mcqs either in .JSON or .CSV files. There are currently over 800 MCQS.Contributors are welcomed.
+
+## How to contribute ?
+First of all, you can contribute minimum 30 mcqs in one pull requests.These mcqs can be scrapped from webistes or copy pasted all upto you. But you should follow the pattern.Choose the topic from the list you want to add mcqs to or you can also add a new topic not present in list.
+
+# Follow these steps:
+
+## 1-Fork this repository:
+
+Fork this repository by clicking on the fork button on the top of this page.
+This will create a copy of this repository in your account.
+
+## 2-Clone the repository
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/53839118/136213687-3d729c1a-a74e-416b-a823-fd1eb2562d32.png" />
+
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+
+Open a terminal and run the following git command:
+
+```
+git clone "url you just copied"
+```
+
+where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/53839118/136216392-b5880196-1ea7-4540-b22e-1d1a2949a047.png" alt="copy URL to clipboard" />
+
+For example:
+
+```
+git clone https://github.com/<this-is-you>/Coding_MCQs.git
+```
+
+where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+
+
+
+
 
 ## Download
 * [Download CSV Files](https://github.com/programmingLover12/Coding_MCQs/raw/master/CSV_Files.zip)
