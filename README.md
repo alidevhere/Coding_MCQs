@@ -41,9 +41,31 @@ For example:
 git clone https://github.com/<this-is-you>/Coding_MCQs.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+where `this-is-you` is your GitHub username. Here you're copying the contents of the coding mcqs repository on GitHub to your computer.
 
+## 3-Create a branch
 
+Change to the repository directory on your computer (if you are not already there):
+
+```
+cd Coding_MCQs
+```
+
+Now create a branch using the `git checkout` command:
+
+```
+git checkout -b your-new-branch-name
+```
+
+For example:
+
+```
+git checkout -b develop
+```
+
+## Make necessary changes and commit those changes
+
+Now open the topic file you want to contribute to, for example we want to contribute to arrays. Open arrays file and add mcsq at end of file.
 
 
 
