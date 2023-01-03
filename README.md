@@ -27,21 +27,14 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 
 Open a terminal and run the following git command:
 
-```
-git clone "url you just copied"
-```
-
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/53839118/136216392-b5880196-1ea7-4540-b22e-1d1a2949a047.png" alt="copy URL to clipboard" />
 
 For example:
 
 ```
-git clone https://github.com/<this-is-you>/Coding_MCQs.git
+git clone https://github.com/alidevhere/Coding_MCQs.git
 ```
-
-where `this-is-you` is your GitHub username. Here you're copying the contents of the coding mcqs repository on GitHub to your computer.
 
 ## 3-Create a branch
 
